@@ -1,0 +1,2878 @@
+<corpus lang="en">
+<lexelt item="interest-n">
+<instance id="interest-n.int1906">
+<answer instance="interest-n.int1906" senseid="interest_6"/>
+<context>
+ <s> holders of about $ 83 million face amount of seaman 's junior subordinated debentures would receive about an 8 % stake in seaman in return for accepting $ 20.8 million face amount in new securities , also carrying a lower <head>interest</head> rate but ranking higher in the financial structure than their current securities . </s> 
+</context>
+</instance>
+<instance id="interest-n.int582">
+<answer instance="interest-n.int582" senseid="interest_5"/>
+<context>
+ <s> profit after taxes and minority <head>interests</head> but before extraordinary items climbed 27 % to # 143.4 million from # 112.5 million , with earnings per share rising to 85.1 pence ( $ 1.35 ) from 79.4 pence ( $ 1.26 ) . </s> 
+</context>
+</instance>
+<instance id="interest-n.int782">
+<answer instance="interest-n.int782" senseid="interest_5"/>
+<context>
+ <s> '' buried in the glossy hardbound catalog for the sale , however , appears the statement , `` sotheby 's has an <head>interest</head> in the property in this catalog . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1904">
+<answer instance="interest-n.int1904" senseid="interest_6"/>
+<context>
+ <s> monday , september 25 , 1989 the key u.s. and foreign annual <head>interest</head> rates below are a guide to general levels but do n't always represent actual transactions . </s> 
+</context>
+</instance>
+<instance id="interest-n.int295">
+<answer instance="interest-n.int295" senseid="interest_6"/>
+<context>
+ <s> that means if the notes continue trading below their $ 100 par value -- they are now trading below $ 80 ( excluding accrued *interest ) -- rjr must boost the bonds ' <head>interest</head> rates as high as necessary to drive their market price to $ 100 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int664">
+<answer instance="interest-n.int664" senseid="interest_5"/>
+<context>
+ <s> even lobbyists for heavy industry , one of the <head>interests</head> hit hardest in the 1986 bill , are encouraged . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1371">
+<answer instance="interest-n.int1371" senseid="interest_5"/>
+<context>
+ <s> buoyed by such deals as sony corp. 's purchase of columbia pictures entertainment inc. and dai-ichi kangyo bank ltd. 's purchase of a 60 % <head>interest</head> in cit group holdings inc. , japanese overseas acquisitions totaled $ 7.36 billion in september , up sharply from $ 2.92 billion a year earlier . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2141">
+<answer instance="interest-n.int2141" senseid="interest_6"/>
+<context>
+ <s> investors have racked up a measly 5.7 % total return , or price changes plus <head>interest</head> payments , for a merrill lynch junk-bond index in the year to date . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1536">
+<answer instance="interest-n.int1536" senseid="interest_5"/>
+<context>
+ <s> mccaw also plans to sell its cellular <head>interests</head> in the southeast for $ 1.3 billion . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1330">
+<answer instance="interest-n.int1330" senseid="interest_6"/>
+<context>
+ <s> but others look for the federal reserve to ease short-term <head>interest</head> rates soon , giving stocks another upward boost . </s> 
+</context>
+</instance>
+<instance id="interest-n.int732">
+<answer instance="interest-n.int732" senseid="interest_5"/>
+<context>
+ <s> in the period , the company completed the sale of its european cosmetics businesses , sold a majority <head>interest</head> in its brazilian affiliate , and announced the reorganization of its over-the-counter drug businesses into a new unit , schering-plough health care products . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2257">
+<answer instance="interest-n.int2257" senseid="interest_5"/>
+<context>
+ <s> as a result , mlx would acquire the outstanding minority <head>interests</head> in its two principal operating subsidiaries . </s> 
+</context>
+</instance>
+<instance id="interest-n.int13">
+<answer instance="interest-n.int13" senseid="interest_6"/>
+<context>
+ <s> at the same time , the drop in <head>interest</head> rates since the spring has failed to revive the residential construction industry . </s> 
+</context>
+</instance>
+<instance id="interest-n.int407">
+<answer instance="interest-n.int407" senseid="interest_5"/>
+<context>
+ <s> the most recent otc short <head>interest</head> statistics were compiled oct. 13 , the day the nasdaq composite index slid 3 % and the new york stock exchange tumbled 7 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int261">
+<answer instance="interest-n.int261" senseid="interest_5"/>
+<context>
+ <s> mitchell will get a half <head>interest</head> in the oil . </s> 
+</context>
+</instance>
+<instance id="interest-n.int551">
+<answer instance="interest-n.int551" senseid="interest_5"/>
+<context>
+ <s> the new structure would be similar to a recapitalization in which holders get a special dividend yet retain a controlling ownership <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int130">
+<answer instance="interest-n.int130" senseid="interest_6"/>
+<context>
+ <s> '' `` if the fed does not come to the rescue and produce lower short-term <head>interest</head> rates over the next 30 days , the market 's going to flounder , '' says larry wachtel , a market analyst with prudential-bache securities . </s> 
+</context>
+</instance>
+<instance id="interest-n.int383">
+<answer instance="interest-n.int383" senseid="interest_5"/>
+<context>
+ <s> amoco , an energy concern , is the operator of the project with a 43.75 % working *interest , and other partners include hydro congo , the congolese state oil company , with a 50 % <head>interest</head> , and kuwait foreign petroleum exploration co. with a 6.25 % stake . </s> 
+</context>
+</instance>
+<instance id="interest-n.int363">
+<answer instance="interest-n.int363" senseid="interest_6"/>
+<context>
+ <s> environmental protection program current <head>interest</head> bonds are due 1995-1999 , 2005 and 2009 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int110">
+<answer instance="interest-n.int110" senseid="interest_5"/>
+<context>
+ <s> bouygues s.a. , a diversified construction concern based in paris , said its consolidated profit for the 1989 first half , after payments to minority <head>interests</head> , surged to 188 million french francs ( $ 30.2 million ) from 65 million francs a year earlier . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1627">
+<answer instance="interest-n.int1627" senseid="interest_6"/>
+<context>
+ <s> a one percentage-point drop in <head>interest</head> rates this year helped raise the volume of new debt securities to a record $ 193.9 billion from $ 181.4 billion a year earlier . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1381">
+<answer instance="interest-n.int1381" senseid="interest_5"/>
+<context>
+ <s> profit after taxes and minority <head>interests</head> and before special items rose 36 % to # 168 million from # 123 million , with earnings per share rising to 17.9 pence from 13.5 pence . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1174">
+<answer instance="interest-n.int1174" senseid="interest_5"/>
+<context>
+ <s> the oil and natural gas exploration and production concern is operator of the well with a 60 % <head>interest</head> ; exxon corp. holds the rest . </s> 
+</context>
+</instance>
+<instance id="interest-n.int119">
+<answer instance="interest-n.int119" senseid="interest_5"/>
+<context>
+ <s> '' mr. meek said his suspicions were aroused by several foreign investments by lincoln , including $ 22 million paid to credit suisse of switzerland , an $ 18 million <head>interest</head> in saudi european bank in paris , a $ 17.5 million investment in a bahamas trading company , and a recently discovered holding in a panama-based company , southbrook holdings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int477">
+<answer instance="interest-n.int477" senseid="interest_6"/>
+<context>
+ <s> '' for the third quarter , operating profit from carbide 's chemicals and plastics business fell to $ 238 million from $ 352 million a year ago , before accounting for taxes and <head>interest</head> expense . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2043">
+<answer instance="interest-n.int2043" senseid="interest_6"/>
+<context>
+ <s> by far the worst was holding onto an $ 8 billion government bond position through rising <head>interest</head> rates during 1987 in the hope that rates would decline ; rates did n't and the value of the bonds fell more than $ 700 million in nine months . </s> 
+</context>
+</instance>
+<instance id="interest-n.int455">
+<answer instance="interest-n.int455" senseid="interest_6"/>
+<context>
+ <s> eurodollar bonds are often issued by foreign corporations , but <head>interest</head> and principal are paid in dollars . </s> 
+</context>
+</instance>
+<instance id="interest-n.int602">
+<answer instance="interest-n.int602" senseid="interest_5"/>
+<context>
+ <s> one suit , filed by more than three dozen investors , charges that mr. peterson misused much of the $ 9.7 million put into a limited partnership that he operated and promoted , spending some of it to pay his own legal bills and to invest in other companies in which he had an <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2346">
+<answer instance="interest-n.int2346" senseid="interest_6"/>
+<context>
+ <s> <head>interest</head> rates aside , central banks remain a primary obstacle to a stronger dollar . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1941">
+<answer instance="interest-n.int1941" senseid="interest_5"/>
+<context>
+ <s> manufacturers also agreed to sell , for $ 1.28 billion , a 60 % <head>interest</head> in the cit group , the bank 's nationwide business finance company , to the dai-ichi kangyo bank ltd . </s> 
+</context>
+</instance>
+<instance id="interest-n.int781">
+<answer instance="interest-n.int781" senseid="interest_5"/>
+<context>
+ <s> profit after taxes and minority <head>interests</head> but before extraordinary items increased 22 % to # 92.6 million from # 75.6 million a year earlier , while fully diluted earnings per share rose to 29.90 pence ( 47 cents ) from 24.68 pence ( 39 cents ) . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2254">
+<answer instance="interest-n.int2254" senseid="interest_6"/>
+<context>
+ <s> annualized <head>interest</head> rates on certain investments as reported by the federal reserve board on a weekly-average basis : a-discounted rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1766">
+<answer instance="interest-n.int1766" senseid="interest_5"/>
+<context>
+ <s> the maker of hardware and printing supplies said mr. fritzsche will be succeeded by longtime director daniel e. virnich , a 48-year-old denver businessman whose personal holding company has <head>interests</head> in manufacturing and real estate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2051">
+<answer instance="interest-n.int2051" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> is the number of shares that have n't yet been purchased for return to lenders . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1703">
+<answer instance="interest-n.int1703" senseid="interest_5"/>
+<context>
+ <s> artra has <head>interests</head> in fashion jewelry and assessories and food-industry supplies . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1698">
+<answer instance="interest-n.int1698" senseid="interest_6"/>
+<context>
+ <s> viacom said its new 10-year bank agreement , provided by a group led by citicorp 's citibank n.a. unit and bank of new york will allow it to lower <head>interest</head> costs significantly and to launch a $ 500 million commercial paper program , which was approved by the viacom board yesterday . </s> 
+</context>
+</instance>
+<instance id="interest-n.int799">
+<answer instance="interest-n.int799" senseid="interest_5"/>
+<context>
+ <s> balcor , which has <head>interests</head> in real estate , said the position is newly created . </s> 
+</context>
+</instance>
+<instance id="interest-n.int771">
+<answer instance="interest-n.int771" senseid="interest_5"/>
+<context>
+ <s> the queks control the hong leong group , which has widespread <head>interests</head> in manufacturing , property and finance in both malaysia and singapore . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1579">
+<answer instance="interest-n.int1579" senseid="interest_6"/>
+<context>
+ <s> but dealers said the market is still broadly pressured by concerns that u.k. <head>interest</head> rates may be about to rise further . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2364">
+<answer instance="interest-n.int2364" senseid="interest_5"/>
+<context>
+ <s> mr. kissinger 's <head>interests</head> include a limited partnership called china ventures . </s> 
+</context>
+</instance>
+<instance id="interest-n.int932">
+<answer instance="interest-n.int932" senseid="interest_5"/>
+<context>
+ <s> bozell joins backer spielvogel bates and ogilvy group as u.s. agencies with <head>interests</head> in korean agencies . </s> 
+</context>
+</instance>
+<instance id="interest-n.int904">
+<answer instance="interest-n.int904" senseid="interest_6"/>
+<context>
+ <s> a market plunge in britain could bring pressure for him to lower <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int659">
+<answer instance="interest-n.int659" senseid="interest_5"/>
+<context>
+ <s> during settlement talks , for example , warner demanded such things as cable tv rights to columbia movies and columbia 's <head>interest</head> in the studio it jointly owns with warner , according to executives involved in the talks . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2135">
+<answer instance="interest-n.int2135" senseid="interest_5"/>
+<context>
+ <s> salomon , which had sunk a total of $ 345 million in bridge loans into tvx broadcasting and ended up owning 79 % of its equity , recently agreed to sell its <head>interest</head> to paramount communications inc. for $ 110 million in cash and the assumption of $ 30 million in debt . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1323">
+<answer instance="interest-n.int1323" senseid="interest_5"/>
+<context>
+ <s> the oil and gas concern said the sale lowered its *interest in the contract to 24.3 % from 34.3 % , while increasing repsol 's <head>interest</head> to 12.45 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int233">
+<answer instance="interest-n.int233" senseid="interest_6"/>
+<context>
+ <s> because municipal bonds yields have risen at a time when <head>interest</head> rates generally have fallen , some portfolio managers are assuming that bonds bought now will appreciate in value as the municipal bond market rebounds . </s> 
+</context>
+</instance>
+<instance id="interest-n.int156">
+<answer instance="interest-n.int156" senseid="interest_6"/>
+<context>
+ <s> quotron is n't profitable on citicorp 's books because of the <head>interest</head> charges the new york bank holding company incurred in buying the financial-data concern for $ 680 million , says ronald i. mandle , analyst for sanford c. bernstein & co . </s> 
+</context>
+</instance>
+<instance id="interest-n.int399">
+<answer instance="interest-n.int399" senseid="interest_6"/>
+<context>
+ <s> high default rates , a low <head>interest</head> rate , and government coverage of all *interest costs while the student is in school make program costs extremely high . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1479">
+<answer instance="interest-n.int1479" senseid="interest_6"/>
+<context>
+ <s> if , as he expects , the economy slips into a recession during the current quarter , he predicts the federal reserve wo n't be able to cut <head>interest</head> rates fast enough to offset plunging earnings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2198">
+<answer instance="interest-n.int2198" senseid="interest_6"/>
+<context>
+ <s> such a facility is unnecessary , he told congress , stressing that it would disrupt and delay cuts in debt and <head>interest</head> payments under the present strengthened debt strategy . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2055">
+<answer instance="interest-n.int2055" senseid="interest_5"/>
+<context>
+ <s> the ratio is the number of trading days , at the exchange 's average trading volume , that would be required to convert the total short <head>interest</head> position . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1557">
+<answer instance="interest-n.int1557" senseid="interest_5"/>
+<context>
+ <s> an exxon spokesman said the $ 148 million purchase will give the company an <head>interest</head> in 2,100 oil and gas wells . </s> 
+</context>
+</instance>
+<instance id="interest-n.int836">
+<answer instance="interest-n.int836" senseid="interest_6"/>
+<context>
+ <s> the new notes will bear <head>interest</head> at 5.5 % through july 31 , 1991 , and thereafter at 10 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2039">
+<answer instance="interest-n.int2039" senseid="interest_5"/>
+<context>
+ <s> intek is a holding company with <head>interests</head> in coating products for static control , and is also a maker of electrostatic simulation and testing equipment . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2145">
+<answer instance="interest-n.int2145" senseid="interest_6"/>
+<context>
+ <s> steels including the `` big five '' such as nippon steel and kobe steel as well as smaller tokyo steel and nisshin steel declined amid growing expectations of higher <head>interest</head> rates , traders said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1865">
+<answer instance="interest-n.int1865" senseid="interest_5"/>
+<context>
+ <s> but while short <head>interest</head> rose only 1 % among large otc issues as of sept. 15 , it surged 11.8 % among smaller stocks . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1882">
+<answer instance="interest-n.int1882" senseid="interest_6"/>
+<context>
+ <s> with <head>interest</head> rates a full percentage point or more below last spring 's levels , many people are focusing on the financing of their biggest investment -- their homes . </s> 
+</context>
+</instance>
+<instance id="interest-n.int700">
+<answer instance="interest-n.int700" senseid="interest_5"/>
+<context>
+ <s> big board short <head>interest</head> fell 4.2 % for the month ended oct. 13 , the second decline in a row . </s> 
+</context>
+</instance>
+<instance id="interest-n.int418">
+<answer instance="interest-n.int418" senseid="interest_5"/>
+<context>
+ <s> two big stocks involved in takeover activity saw their short <head>interest</head> surge . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2053">
+<answer instance="interest-n.int2053" senseid="interest_5"/>
+<context>
+ <s> fluctuation in short <head>interest</head> of certain stocks also may be caused partly by arbitraging . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1836">
+<answer instance="interest-n.int1836" senseid="interest_6"/>
+<context>
+ <s> '' while the trade report drew substantive selling into the market , dealers said knee-jerk concerns over u.k. <head>interest</head> rate increases subsided and helped keep the key index from an even sharper decline . </s> 
+</context>
+</instance>
+<instance id="interest-n.int456">
+<answer instance="interest-n.int456" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> increased 6 % in the nasdaq over-the-counter market for the month ended oct. 13 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2278">
+<answer instance="interest-n.int2278" senseid="interest_5"/>
+<context>
+ <s> instead , citicorp 's equity <head>interest</head> in the purchase is being reduced , and another financial buyer , possibly another leveraged buy-out fund , is likely to step in to help make the purchase , according to one person familiar with the sale . </s> 
+</context>
+</instance>
+<instance id="interest-n.int79">
+<answer instance="interest-n.int79" senseid="interest_6"/>
+<context>
+ <s> the group 's bid for $ 34.2 million of wastewater treatment bonds , series 1989 b , produced a 7.0808 % true <head>interest</head> cost . </s> 
+</context>
+</instance>
+<instance id="interest-n.int462">
+<answer instance="interest-n.int462" senseid="interest_5"/>
+<context>
+ <s> however , an olivetti spokeswoman said ocn-ppl , of which olivetti sold the majority <head>interest</head> last year , `` does n't make equipment that has the type of precision necessary for sophisticated productions . </s> 
+</context>
+</instance>
+<instance id="interest-n.int483">
+<answer instance="interest-n.int483" senseid="interest_6"/>
+<context>
+ <s> <head>interest</head> on the bonds will be treated as a preference item in calculating the federal alternative minimum tax that may be imposed on certain investors . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2181">
+<answer instance="interest-n.int2181" senseid="interest_6"/>
+<context>
+ <s> faced with sharply higher <head>interest</head> rates and flagging demand for new homes in britain , tarmac `` made the most of its opportunities in the first half , '' said eric pountain , tarmac 's chairman . </s> 
+</context>
+</instance>
+<instance id="interest-n.int907">
+<answer instance="interest-n.int907" senseid="interest_6"/>
+<context>
+ <s> many traders think the fed will quickly lower <head>interest</head> rates , a move that would be a plus for stocks . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1029">
+<answer instance="interest-n.int1029" senseid="interest_6"/>
+<context>
+ <s> refcorp also said the bonds may be stripped into their separate <head>interest</head> and principal components . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1409">
+<answer instance="interest-n.int1409" senseid="interest_6"/>
+<context>
+ <s> for instance , if soviet inflation is currently at 10 % , then the expected <head>interest</head> rate would be initially around 18 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int380">
+<answer instance="interest-n.int380" senseid="interest_6"/>
+<context>
+ <s> the average <head>interest</head> rate rose to 8.337 % at citicorp 's $ 50 million weekly auction of 91-day commercial paper , or corporate ious , from 8.292 % at last week 's sale . </s> 
+</context>
+</instance>
+<instance id="interest-n.int51">
+<answer instance="interest-n.int51" senseid="interest_5"/>
+<context>
+ <s> meridian national corp. said it sold 750,000 shares of its common stock to the mcalpine family <head>interests</head> , for $ 1 million , or $ 1.35 a share . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1908">
+<answer instance="interest-n.int1908" senseid="interest_6"/>
+<context>
+ <s> the pay-in-kind securities , which pay <head>interest</head> in the form of additional securities , are likely to have a market value well below their $ 50 million face value , further increasing the financial fallout for banks from the deal if they decided to sell those securities before maturity . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1907">
+<answer instance="interest-n.int1907" senseid="interest_6"/>
+<context>
+ <s> under the new terms , the banks will have $ 150 million of 12 % senior debt , of which <head>interest</head> will be currently payable on only $ 125 million until nov. 15 , 1992 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1681">
+<answer instance="interest-n.int1681" senseid="interest_6"/>
+<context>
+ <s> it added that it is currently paying <head>interest</head> on all its debt and principal payments on its publicly held medium-term notes as they fall due . </s> 
+</context>
+</instance>
+<instance id="interest-n.int926">
+<answer instance="interest-n.int926" senseid="interest_5"/>
+<context>
+ <s> since then , hooker corp. has sold its <head>interest</head> in the parisian chain back to parisian 's management and is currently attempting to sell the b. altman & co. chain . </s> 
+</context>
+</instance>
+<instance id="interest-n.int463">
+<answer instance="interest-n.int463" senseid="interest_6"/>
+<context>
+ <s> a sinking economy depresses corporate earnings and thus stock prices , but it buoys bond prices as <head>interest</head> rates fall . </s> 
+</context>
+</instance>
+<instance id="interest-n.int332">
+<answer instance="interest-n.int332" senseid="interest_5"/>
+<context>
+ <s> gm class e , which represents a dividend <head>interest</head> in eds profit , fell 75 cents to $ 52.25 on the big board . </s> 
+</context>
+</instance>
+<instance id="interest-n.int347">
+<answer instance="interest-n.int347" senseid="interest_6"/>
+<context>
+ <s> in the meantime , the money can continue to earn <head>interest</head> for the card holder -- often more than 1 % during that `` float '' period alone . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2183">
+<answer instance="interest-n.int2183" senseid="interest_6"/>
+<context>
+ <s> home building and buying picked up a bit after the fed began nudging <head>interest</head> rates down , but mr. seiders said the latest numbers show that talk of a rebound in housing was premature . </s> 
+</context>
+</instance>
+<instance id="interest-n.int928">
+<answer instance="interest-n.int928" senseid="interest_6"/>
+<context>
+ <s> two years ago , unlike today , the dollar was weak , <head>interest</head> rates were rising and the market was very overvalued , they say . </s> 
+</context>
+</instance>
+<instance id="interest-n.int511">
+<answer instance="interest-n.int511" senseid="interest_5"/>
+<context>
+ <s> aside from generale de belgique and asahi , the syndicate includes antwerpsche hypotheekkas , a belgian savings bank , and various family <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1597">
+<answer instance="interest-n.int1597" senseid="interest_6"/>
+<context>
+ <s> it has n't paid <head>interest</head> on its medium-term and long-term bank debt since april last year and is now more than $ 4 billion in arrears . </s> 
+</context>
+</instance>
+<instance id="interest-n.int953">
+<answer instance="interest-n.int953" senseid="interest_6"/>
+<context>
+ <s> a few hours after the party launched its own affinity credit card earlier this month , the tories raised the nation 's base <head>interest</head> rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int755">
+<answer instance="interest-n.int755" senseid="interest_6"/>
+<context>
+ <s> northrop 's <head>interest</head> expense also soared to $ 35 million from $ 17 million a year ago . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2160">
+<answer instance="interest-n.int2160" senseid="interest_6"/>
+<context>
+ <s> that accord allows banks three options on their debt : to make new loans over the next four years totaling 25 % of their current exposure and take no charge against reserves , or to swap their loans for bonds that carry either a 35 % discount in face value from the loan amount or a 6.25 % <head>interest</head> rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2221">
+<answer instance="interest-n.int2221" senseid="interest_6"/>
+<context>
+ <s> resorts also has $ 600 million of unsecured junior debt outstanding at <head>interest</head> rates ranging from 10 % to 16 5 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1532">
+<answer instance="interest-n.int1532" senseid="interest_5"/>
+<context>
+ <s> transco exploration partners ltd. said it received high bids totaling $ 48.1 million from oryx energy co. and transco exploration & production co. for its <head>interest</head> in five offshore oil and gas development wells . </s> 
+</context>
+</instance>
+<instance id="interest-n.int420">
+<answer instance="interest-n.int420" senseid="interest_5"/>
+<context>
+ <s> nasdaq stocks that showed a drop in short <head>interest</head> included adobe systems , class a shares of tele-communications and takeover targets lyphomed and jerrico . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1053">
+<answer instance="interest-n.int1053" senseid="interest_6"/>
+<context>
+ <s> that rise , from 8.60 % , was a result of higher short-term <head>interest</head> rates in the previous reporting week , said brenda malizia negus , editor of the holliston , mass.-based newsletter . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1302">
+<answer instance="interest-n.int1302" senseid="interest_6"/>
+<context>
+ <s> meanwhile , many government-bond funds found their portfolio values eroded by rising <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1032">
+<answer instance="interest-n.int1032" senseid="interest_5"/>
+<context>
+ <s> the company has <head>interests</head> in publishing large-typeface books and providing direct response advertising . </s> 
+</context>
+</instance>
+<instance id="interest-n.int41">
+<answer instance="interest-n.int41" senseid="interest_6"/>
+<context>
+ <s> institutions mostly remained on the sidelines because of uncertainty regarding <head>interest</head> rates and the dollar . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1480">
+<answer instance="interest-n.int1480" senseid="interest_6"/>
+<context>
+ <s> many traders are expecting the west german central bank to raise key <head>interest</head> rates at least half a percentage point on thursday . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1662">
+<answer instance="interest-n.int1662" senseid="interest_5"/>
+<context>
+ <s> c. itoh was one of many companies that talked about buying at least an equity <head>interest</head> in MGMNP ; jvcvictor co. of japan , which is 50 % owned by matsushita , recently agreed to invest more than $ 100 million in a joint venture with independent hollywood producer larry gordon to produce and finance motion pictures . </s> 
+</context>
+</instance>
+<instance id="interest-n.int372">
+<answer instance="interest-n.int372" senseid="interest_5"/>
+<context>
+ <s> this will include the sale of its <head>interest</head> in the joint venture beghin corbehem to feldemuehle ag . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1128">
+<answer instance="interest-n.int1128" senseid="interest_5"/>
+<context>
+ <s> telerate inc. said a committee of independent directors rejected as inadequate an $ 18-a-share tender offer from dow jones & co. , owner of a 67 % <head>interest</head> in the electronic financial information services company . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1726">
+<answer instance="interest-n.int1726" senseid="interest_5"/>
+<context>
+ <s> however , at midafternoon , the commodity exchange 's report showed that open <head>interest</head> in copper , or the number of contracts that remain to be liquidated by either an opposite trade or delivery , had dropped by 2,083 , to 19,063 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1931">
+<answer instance="interest-n.int1931" senseid="interest_6"/>
+<context>
+ <s> traders took the statement as a sign of higher european <head>interest</head> rates in the near term and began taking profits on some of the issues that led the market to last week 's string of three consecutive record closes . </s> 
+</context>
+</instance>
+<instance id="interest-n.int883">
+<answer instance="interest-n.int883" senseid="interest_5"/>
+<context>
+ <s> bsn will initially acquire a 15 % <head>interest</head> in birkel , a closely held concern . </s> 
+</context>
+</instance>
+<instance id="interest-n.int627">
+<answer instance="interest-n.int627" senseid="interest_5"/>
+<context>
+ <s> although a substantial short position reflects heavy speculation that a stock 's price will decline , some investors consider an increase in short <head>interest</head> bullish because the borrowed shares eventually must be bought back . </s> 
+</context>
+</instance>
+<instance id="interest-n.int161">
+<answer instance="interest-n.int161" senseid="interest_6"/>
+<context>
+ <s> annualized <head>interest</head> rates on certain investments as reported by the federal reserve board on a weekly-average basis : a-discounted rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int489">
+<answer instance="interest-n.int489" senseid="interest_6"/>
+<context>
+ <s> such news is good for bonds because economic weakness sometimes causes the federal reserve to lower <head>interest</head> rates in an effort to stimulate the economy and stave off a recession . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1010">
+<answer instance="interest-n.int1010" senseid="interest_5"/>
+<context>
+ <s> varity said it will retain a `` substantial '' minority <head>interest</head> in landini and that the company will be operated as a joint venture . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1877">
+<answer instance="interest-n.int1877" senseid="interest_5"/>
+<context>
+ <s> among 1,334 of the smaller stocks not on the national market system , short <head>interest</head> totaled nearly 38 million shares , or 94 % of one day 's average volume . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1894">
+<answer instance="interest-n.int1894" senseid="interest_6"/>
+<context>
+ <s> since june 1988 , the british government has raised <head>interest</head> rates 10 times in an attempt to stifle the demand that is sucking in imports and feeding inflation , which is running at an annual rate of 7.3 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int454">
+<answer instance="interest-n.int454" senseid="interest_6"/>
+<context>
+ <s> the bonds were won by a goldman , sachs & co. group with a true <head>interest</head> cost of 7.17 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int134">
+<answer instance="interest-n.int134" senseid="interest_5"/>
+<context>
+ <s> the four seasons spokeswoman said mr. sharp , who has an 81 % voting stake in the company , has no current plans to sell his <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1318">
+<answer instance="interest-n.int1318" senseid="interest_5"/>
+<context>
+ <s> l.j. hooker has already sold its majority <head>interest</head> in parisian inc. , a southern department store chain , to management . </s> 
+</context>
+</instance>
+<instance id="interest-n.int941">
+<answer instance="interest-n.int941" senseid="interest_5"/>
+<context>
+ <s> mccaw cellular communications , for instance , has offered to buy lin broadcasting as well as metromedia 's new york city cellular telephone <head>interests</head> , and in a separate transaction , sell certain mccaw properties to contel cellular . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2016">
+<answer instance="interest-n.int2016" senseid="interest_5"/>
+<context>
+ <s> mr. lipper said carl ruderman , chairman of drake , `` admitted to me he can not afford to go forward with venture '' and is seeking a buyer for the equity <head>interest</head> he acquired . </s> 
+</context>
+</instance>
+<instance id="interest-n.int642">
+<answer instance="interest-n.int642" senseid="interest_5"/>
+<context>
+ <s> the glazer group said in a securities and exchange commission filing in early october that it may seek a controlling <head>interest</head> in harley-davidson , or seek representation on the company 's board . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1587">
+<answer instance="interest-n.int1587" senseid="interest_6"/>
+<context>
+ <s> foreign exchange traders said activity was fairly thin , with most participants tightly focused on the likelihood of an <head>interest</head> rate increase in germany later this week . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1455">
+<answer instance="interest-n.int1455" senseid="interest_5"/>
+<context>
+ <s> in one high-profile deal , atwood traded construction gear , safety nets and security service for the eiffel tower restaurant in paris -- which it disassembled and moved to new orleans for a client , in exchange for an <head>interest</head> in the reconstructed restaurant . </s> 
+</context>
+</instance>
+<instance id="interest-n.int373">
+<answer instance="interest-n.int373" senseid="interest_5"/>
+<context>
+ <s> and in a separate transaction , beghin-say will sell its remaining 25 % <head>interest</head> in a.t.b. , a holding company for international trading assets , to an unspecified unit of ferruzzi for 258 million francs . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2199">
+<answer instance="interest-n.int2199" senseid="interest_5"/>
+<context>
+ <s> the fully diluted equity <head>interest</head> of mr. campeau , chairman and chief executive officer , will fall to 43.2 % from 54 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1595">
+<answer instance="interest-n.int1595" senseid="interest_5"/>
+<context>
+ <s> netherlands-based hcs has <head>interests</head> in software and hardware development , automation projects and visual communications . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1328">
+<answer instance="interest-n.int1328" senseid="interest_6"/>
+<context>
+ <s> the well-publicized troubles of some large issuers of high-yield corporate bonds have sent <head>interest</head> rates for such issues climbing to new highs relative to government debt . </s> 
+</context>
+</instance>
+<instance id="interest-n.int686">
+<answer instance="interest-n.int686" senseid="interest_5"/>
+<context>
+ <s> the gain resulted from the sale of grace equipment co. , the initial public offering of a one-sixth <head>interest</head> in grace energy corp. and an adjustment in the carrying value of certain natural resource assets not part of grace energy . </s> 
+</context>
+</instance>
+<instance id="interest-n.int256">
+<answer instance="interest-n.int256" senseid="interest_5"/>
+<context>
+ <s> unocal corp. 's decision to put its norwegian oil and gas <head>interests</head> up for sale earlier this week is another step in the company 's strategic review of its properties , and shows that few of them are sacred cows . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1161">
+<answer instance="interest-n.int1161" senseid="interest_5"/>
+<context>
+ <s> lin is perceived as having cellular properties worth more than those in small cities such as memphis because it has <head>interests</head> in large , growing markets such as new york , los angeles and houston . </s> 
+</context>
+</instance>
+<instance id="interest-n.int892">
+<answer instance="interest-n.int892" senseid="interest_6"/>
+<context>
+ <s> the federal reserve gave comfort to the financial markets yesterday by allowing a key <head>interest</head> rate to drift downward . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2044">
+<answer instance="interest-n.int2044" senseid="interest_5"/>
+<context>
+ <s> general signal , which has <head>interests</head> in process control , electrical , semiconductor , transportation and telecommunications systems , has n't had anyone in the post since january , when theodore wiedemann resigned for personal reasons . </s> 
+</context>
+</instance>
+<instance id="interest-n.int264">
+<answer instance="interest-n.int264" senseid="interest_6"/>
+<context>
+ <s> the fasb rule will cover such financial instruments as <head>interest</head> rate swaps , financial guarantees , foward *interest rate contracts , loan contracts , loan commitments and options written on securites held . </s> 
+</context>
+</instance>
+<instance id="interest-n.int417">
+<answer instance="interest-n.int417" senseid="interest_5"/>
+<context>
+ <s> in addition , changes in short <head>interest</head> in some stocks may be caused by arbitrage . </s> 
+</context>
+</instance>
+<instance id="interest-n.int562">
+<answer instance="interest-n.int562" senseid="interest_5"/>
+<context>
+ <s> metromedia , headed by john w. kluge , has <head>interests</head> in telecommunications , robotic painting , computer software , restaurants and entertainment . </s> 
+</context>
+</instance>
+<instance id="interest-n.int872">
+<answer instance="interest-n.int872" senseid="interest_6"/>
+<context>
+ <s> revenue derived from <head>interest</head> and dividends jumped 30 % to $ 1.4 billion . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2289">
+<answer instance="interest-n.int2289" senseid="interest_5"/>
+<context>
+ <s> the japanese securities house already has a 25.1 % <head>interest</head> in matuschka 's mat main anlage trust g.m.b . </s> 
+</context>
+</instance>
+<instance id="interest-n.int945">
+<answer instance="interest-n.int945" senseid="interest_6"/>
+<context>
+ <s> but if the stock market does n't continue to plummet , the beneficial effects of lower <head>interest</head> rates and a lower dollar may well dominate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1496">
+<answer instance="interest-n.int1496" senseid="interest_5"/>
+<context>
+ <s> new york-based lin currently owns a 50 % voting <head>interest</head> and a 45 % equity *interest in the franchise . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1897">
+<answer instance="interest-n.int1897" senseid="interest_6"/>
+<context>
+ <s> but mr. lawson is likely to resist such a politically unpopular move as long as possible , particularly as higher <head>interest</head> rates could raise mortgage rates and thus fuel higher inflation . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1641">
+<answer instance="interest-n.int1641" senseid="interest_6"/>
+<context>
+ <s> the fed might have to raise short-term <head>interest</head> rates for a while to yank down the inflation rate , he concedes . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1657">
+<answer instance="interest-n.int1657" senseid="interest_5"/>
+<context>
+ <s> mr. beyer said he became aware of mr. sandner 's <head>interest</head> in abs shortly after it was included in merc regulatory filings march 13 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1608">
+<answer instance="interest-n.int1608" senseid="interest_5"/>
+<context>
+ <s> dexter reduced its <head>interest</head> in grafil in 1987 to 20 % and then acquired resin products and technology from the venture . </s> 
+</context>
+</instance>
+<instance id="interest-n.int745">
+<answer instance="interest-n.int745" senseid="interest_5"/>
+<context>
+ <s> mr. hayes , 52 years old , left southwestern bell telephone co. in january , where he had been chairman , president and chief executive , to join triad capital partners , a st. louis company with <head>interests</head> in solid waste and recycling , telecommunications and international venture capital . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1670">
+<answer instance="interest-n.int1670" senseid="interest_6"/>
+<context>
+ <s> resorts has suspended <head>interest</head> payments on its bonds , pending a debt restructuring . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2060">
+<answer instance="interest-n.int2060" senseid="interest_6"/>
+<context>
+ <s> coats viyella plc , a british textile manufacturer , said pretax profit slumped 27 % during the latest six months , as high u.k. <head>interest</head> rates and rising imports ripped into profitability . </s> 
+</context>
+</instance>
+<instance id="interest-n.int569">
+<answer instance="interest-n.int569" senseid="interest_5"/>
+<context>
+ <s> mr. sugarman has in turn contended that the other major shareholder group -- whose <head>interests</head> are represented by three other directors connected to trusts in the name of the children of the company 's founder , james patterson -- has ties to a competing fast food chain , wendy 's international inc . </s> 
+</context>
+</instance>
+<instance id="interest-n.int406">
+<answer instance="interest-n.int406" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> in nasdaq over-the-counter stocks rose 6 % as of mid-october , its biggest jump since 6.3 % last april . </s> 
+</context>
+</instance>
+<instance id="interest-n.int283">
+<answer instance="interest-n.int283" senseid="interest_5"/>
+<context>
+ <s> the commission said coats must first dispose of its <head>interest</head> in britain 's domestic sewing thread industry and its shares in the gutermann group . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1603">
+<answer instance="interest-n.int1603" senseid="interest_6"/>
+<context>
+ <s> however , in health-chem 's most recent securities and exchange commission filing , it indicated it was having significant financial problems stemming in part from planned capital investments and the anticipated settlement of tax and <head>interest</head> obligations resulting from a prior year 's tax audit stipulated agreement . </s> 
+</context>
+</instance>
+<instance id="interest-n.int220">
+<answer instance="interest-n.int220" senseid="interest_6"/>
+<context>
+ <s> friday , october 27 , 1989 the key u.s. and foreign annual <head>interest</head> rates below are a guide to general levels but do n't always represent actual transactions . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1981">
+<answer instance="interest-n.int1981" senseid="interest_5"/>
+<context>
+ <s> lotus , one of the software industry 's largest companies , acquired a minority <head>interest</head> in another closely held company , computer software developer rational systems inc. , in july . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2104">
+<answer instance="interest-n.int2104" senseid="interest_5"/>
+<context>
+ <s> the histadrut owns koor industries ltd. , the state 's largest industrial conglomerate whose <head>interests</head> in steel , electronics , chemicals and consumer products yielded 1988 sales of $ 2.34 billion . </s> 
+</context>
+</instance>
+<instance id="interest-n.int901">
+<answer instance="interest-n.int901" senseid="interest_6"/>
+<context>
+ <s> if the yen rebounds against the dollar , he said , there is less chance of an additional increase in <head>interest</head> rates , which could help stabilize tokyo share prices . </s> 
+</context>
+</instance>
+<instance id="interest-n.int817">
+<answer instance="interest-n.int817" senseid="interest_6"/>
+<context>
+ <s> pnc financial pnc financial cited higher income from sources unrelated to <head>interest</head> and said it continues to cut costs . </s> 
+</context>
+</instance>
+<instance id="interest-n.int527">
+<answer instance="interest-n.int527" senseid="interest_5"/>
+<context>
+ <s> comsat video will pay $ 17 million for a 62.5 % <head>interest</head> , with messrs. lee and bynoe putting up $ 8 million for a 37.5 % stake in the team . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1601">
+<answer instance="interest-n.int1601" senseid="interest_5"/>
+<context>
+ <s> among significant events for the concern in the first half was american telephone & telegraph co. 's agreement to take an 18.6 % stake in cir in exchange for its 22 % holding in office equipment manufacturer ing c. olivetti & co. cir raised its <head>interests</head> in olivetti to 41 % as a result of the agreement . </s> 
+</context>
+</instance>
+<instance id="interest-n.int871">
+<answer instance="interest-n.int871" senseid="interest_6"/>
+<context>
+ <s> as a result , security pacific 's net <head>interest</head> margin fell only 13 basis points , a more mild decrease than some major banks outside california , which have been reporting more sluggish earnings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int870">
+<answer instance="interest-n.int870" senseid="interest_6"/>
+<context>
+ <s> the company said the gain resulted mainly from a $ 54 million increase in net <head>interest</head> income , reflecting a 33 % increase in real estate loans ( mainly residential ) , and a 19 % rise in consumer loans . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2341">
+<answer instance="interest-n.int2341" senseid="interest_5"/>
+<context>
+ <s> the facilities include a 70 % *interest in the milford haven refinery , 250 service stations and <head>interests</head> in an oil pipeline and five product terminals . </s> 
+</context>
+</instance>
+<instance id="interest-n.int252">
+<answer instance="interest-n.int252" senseid="interest_5"/>
+<context>
+ <s> giant has <head>interests</head> in cement making and newsprint . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1994">
+<answer instance="interest-n.int1994" senseid="interest_6"/>
+<context>
+ <s> one reason they expect lower <head>interest</head> rates is low money-supply growth . </s> 
+</context>
+</instance>
+<instance id="interest-n.int861">
+<answer instance="interest-n.int861" senseid="interest_6"/>
+<context>
+ <s> that debt would be paid off as the assets are sold , leaving the total spending for the bailout at $ 50 billion , or $ 166 billion including <head>interest</head> over 10 years . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1500">
+<answer instance="interest-n.int1500" senseid="interest_5"/>
+<context>
+ <s> '' other analysts warned , however , that the combined cellular-phone *interests of bellsouth and lin might be reluctant to pile on more debt by buying new york-based metromedia 's <head>interests</head> , and bellsouth itself might object to the price . </s> 
+</context>
+</instance>
+<instance id="interest-n.int292">
+<answer instance="interest-n.int292" senseid="interest_6"/>
+<context>
+ <s> and although the company apparently is meeting its cash-interest payments with ease , the clock is ticking on its non-cash notes -- to the tune of about $ 1.4 billion of accrued <head>interest</head> this year , with the amounts expected to rise to about $ 2.3 billion in 1993 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int567">
+<answer instance="interest-n.int567" senseid="interest_5"/>
+<context>
+ <s> in an advisory letter , the department said that , starting oct. 18 , loans could be limited to `` parties in <head>interest</head> , '' which generally means active workers but also includes retirees who continue as directors and 10 % shareholders . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2139">
+<answer instance="interest-n.int2139" senseid="interest_5"/>
+<context>
+ <s> but officials said they do n't know of any way to protect all u.s. <head>interests</head> in such countries as bolivia , peru and colombia , where the cartels ' power is immense . </s> 
+</context>
+</instance>
+<instance id="interest-n.int857">
+<answer instance="interest-n.int857" senseid="interest_6"/>
+<context>
+ <s> officials familiar with the bank talks said the ual buy-out group -- ual pilots , management , and british airways plc -- is now willing to pay higher bank fees and <head>interest</head> , but is n't likely to boost its $ 965 million equity contribution . </s> 
+</context>
+</instance>
+<instance id="interest-n.int668">
+<answer instance="interest-n.int668" senseid="interest_5"/>
+<context>
+ <s> a year earlier , the company had profit from discontinued operations of $ 24.9 million from sale of a pipeline , a refinery and an <head>interest</head> in a second refinery . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1527">
+<answer instance="interest-n.int1527" senseid="interest_6"/>
+<context>
+ <s> but toro said that beginning in fiscal 1991 , it expects profit to improve significantly by nearly doubling its walk power mower volume without adding related support and overhead costs , and by lower <head>interest</head> cost resulting from a significant positive cash flow . </s> 
+</context>
+</instance>
+<instance id="interest-n.int27">
+<answer instance="interest-n.int27" senseid="interest_5"/>
+<context>
+ <s> mr. klauser says mitsui has 75 u.s. subsidiaries in which it holds 35 % <head>interest</head> or more and the trading company hopes to double the number of its u.s. affiliates in 1990 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1149">
+<answer instance="interest-n.int1149" senseid="interest_6"/>
+<context>
+ <s> the bond market rally came to an abrupt halt yesterday after the federal reserve sent strong signals that it is n't ready to relax <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1728">
+<answer instance="interest-n.int1728" senseid="interest_6"/>
+<context>
+ <s> the report said there had been a structural change in the sugar market in that more demand was coming from developing countries , which are n't inclined to pay higher prices for sugar , and that sugar-using industries are keeping smaller inventories because of high <head>interest</head> rates and other costs of carrying the supplies , the analyst said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1300">
+<answer instance="interest-n.int1300" senseid="interest_5"/>
+<context>
+ <s> guinness climbed 25 to 597 on followthrough buying after a strong interim earnings report thursday and on the growing perception that its 24 % beneficial <head>interest</head> in french luxury goods maker louis vuitton moet hennessey will prove a good investment . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1984">
+<answer instance="interest-n.int1984" senseid="interest_6"/>
+<context>
+ <s> a reacceleration would bring on higher <head>interest</head> rates , which would be likely to offset stronger earnings gains . </s> 
+</context>
+</instance>
+<instance id="interest-n.int626">
+<answer instance="interest-n.int626" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> is the number of shares that have n't yet been purchased for return to lenders . </s> 
+</context>
+</instance>
+<instance id="interest-n.int778">
+<answer instance="interest-n.int778" senseid="interest_5"/>
+<context>
+ <s> the joint venture is being undone , with mccall 's magazine being sold last summer to the new york times co. 's magazine group for about $ 80 million , and time warner agreeing to sell back its 50 % <head>interest</head> in working woman and working mother to mr. lang . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1932">
+<answer instance="interest-n.int1932" senseid="interest_5"/>
+<context>
+ <s> sakata inx established a joint venture company in indonesia called pt sakata inx indonesia , together with a local publishing company and certain other <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int998">
+<answer instance="interest-n.int998" senseid="interest_6"/>
+<context>
+ <s> the bill also would close a loophole regarding employee stock ownership plans , effective june 6 , 1989 , that has been exploited by investment bankers in corporate takeovers , and would curb junk bonds by ending tax benefits for certain securities , such as zero-coupon bonds , that postpone cash <head>interest</head> payments . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2368">
+<answer instance="interest-n.int2368" senseid="interest_5"/>
+<context>
+ <s> mr. lord adds that although he does n't fully share mr. kissinger 's sympathy for the deng regime , he is convinced that mr. kissinger 's views are n't influenced by money : `` if he did n't have a cent of commercial <head>interest</head> in china , he would have taken the same position . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1200">
+<answer instance="interest-n.int1200" senseid="interest_6"/>
+<context>
+ <s> the currency 's weakness helped amplify market concerns over rising <head>interest</head> rates and a possible recession . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1578">
+<answer instance="interest-n.int1578" senseid="interest_6"/>
+<context>
+ <s> in london , shares were moderately lower in thin trading on continued fears that higher <head>interest</head> rates are coming , a concern that weighed down many other european markets as well . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1548">
+<answer instance="interest-n.int1548" senseid="interest_6"/>
+<context>
+ <s> annualized <head>interest</head> rates on certain investments as reported by the federal reserve board on a weekly-average basis : a-discounted rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1901">
+<answer instance="interest-n.int1901" senseid="interest_6"/>
+<context>
+ <s> in exchange for <head>interest</head> on the smallest loan , senior lenders will receive series a convertible preferred stock equal to about 15 % of general homes ' equity . </s> 
+</context>
+</instance>
+<instance id="interest-n.int103">
+<answer instance="interest-n.int103" senseid="interest_6"/>
+<context>
+ <s> while the incidents involving <head>interest</head> rate options and forward-rate agreements are unrelated , some observers say they echo a 1987 incident in which bankers trust new york corp. restated the value of its foreign exchange options contracts downward by about $ 80 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int87">
+<answer instance="interest-n.int87" senseid="interest_5"/>
+<context>
+ <s> enfield is a holding company with <head>interests</head> in manufacturing concerns . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1721">
+<answer instance="interest-n.int1721" senseid="interest_6"/>
+<context>
+ <s> in london , shares fell sharply in thin trading marked by nervousness over <head>interest</head> rates and the pound 's weakness . </s> 
+</context>
+</instance>
+<instance id="interest-n.int629">
+<answer instance="interest-n.int629" senseid="interest_5"/>
+<context>
+ <s> the level of negative sentiment measured by the big board short <head>interest</head> ratio slipped to 3.36 from last month 's 3.38 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1620">
+<answer instance="interest-n.int1620" senseid="interest_6"/>
+<context>
+ <s> `` when the rating is in the double-b category , the ( <head>interest</head> ) coverage is very thin . </s> 
+</context>
+</instance>
+<instance id="interest-n.int106">
+<answer instance="interest-n.int106" senseid="interest_6"/>
+<context>
+ <s> started three years ago , chemical 's <head>interest</head> rate options group was a leading force in the field . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1320">
+<answer instance="interest-n.int1320" senseid="interest_6"/>
+<context>
+ <s> at sept. 30 , fedders had no short-term debt , and long-term debt was around $ 53 million at an average <head>interest</head> rate of 9.3 % , leaving `` ample borrowing capacity , '' the executive said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int15">
+<answer instance="interest-n.int15" senseid="interest_6"/>
+<context>
+ <s> the toronto-based real estate concern said each bond warrant entitles the holder to buy c$ 1,000 principal amount of debentures at par plus accrued <head>interest</head> to the date of purchase . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1843">
+<answer instance="interest-n.int1843" senseid="interest_5"/>
+<context>
+ <s> crs sirrine inc. said its crss capital inc. unit agreed in principle to buy sithe energies u.s.a. inc. 's 51 % <head>interest</head> in three independent power projects . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1873">
+<answer instance="interest-n.int1873" senseid="interest_5"/>
+<context>
+ <s> although a surge in short <head>interest</head> indicates speculation that a stock 's price will fall , many analysts view a firm base of short *interest as healthy , because shares that are sold short must eventually be replaced through buying . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1923">
+<answer instance="interest-n.int1923" senseid="interest_5"/>
+<context>
+ <s> kent p. shoemaker , a former president of the d&h , leads another bidder group that includes investment bank wertheim schroder and other <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int906">
+<answer instance="interest-n.int906" senseid="interest_6"/>
+<context>
+ <s> the reasons include the obvious differences in the market between this fall and 1987 : <head>interest</head> rates have n't been rising this time , as they were in 1987 ; the dollar , though hit friday , has n't been eroding dangerously ; the economy is n't overheating ; and , above all , stocks are far from being as wildly overpriced : they are selling at only about 13 times per-share earnings , compared with about 20 two years ago . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1249">
+<answer instance="interest-n.int1249" senseid="interest_5"/>
+<context>
+ <s> but tonka said the group , which includes tonka vice chairman gordon l. bramah , also said it may acquire more shares on its own or with others `` with a view toward obtaining a controlling <head>interest</head> in the company . </s> 
+</context>
+</instance>
+<instance id="interest-n.int863">
+<answer instance="interest-n.int863" senseid="interest_6"/>
+<context>
+ <s> the <head>interest</head> rate on short-term funds , which banks borrow to finance longer-term loans to customers , was `` sharply higher , '' morgan said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1448">
+<answer instance="interest-n.int1448" senseid="interest_6"/>
+<context>
+ <s> kevin smith , the city 's treasurer , said he complained to e.f. hutton & co. , which in august 1987 agreed to pay the city its principal amount plus about 3 % <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2083">
+<answer instance="interest-n.int2083" senseid="interest_5"/>
+<context>
+ <s> as reported , new york-based lin agreed earlier this month to merge its domestic cellular telephone <head>interests</head> with bellsouth in a move aimed at thwarting mccaw 's bid . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1136">
+<answer instance="interest-n.int1136" senseid="interest_6"/>
+<context>
+ <s> the notes are zero-coupon securities and will not pay <head>interest</head> periodically . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1694">
+<answer instance="interest-n.int1694" senseid="interest_5"/>
+<context>
+ <s> sas owns 23 hotels directly and holds <head>interests</head> in 105 more through its 40 % stake in intercontinental hotel corp. acquired earlier this year . </s> 
+</context>
+</instance>
+<instance id="interest-n.int965">
+<answer instance="interest-n.int965" senseid="interest_5"/>
+<context>
+ <s> but the airlines are scarcely a clear case , given anti-takeover mischief by secretary of transportation skinner , who professes to believe safety will be compromised if klm and british airways own <head>interests</head> in companies that fly airplanes . </s> 
+</context>
+</instance>
+<instance id="interest-n.int613">
+<answer instance="interest-n.int613" senseid="interest_6"/>
+<context>
+ <s> some insurers have also started offering `` persistency bonuses , '' such as extra dividends or a marginally higher <head>interest</head> yield , if the policy is maintained for 10 years . </s> 
+</context>
+</instance>
+<instance id="interest-n.int257">
+<answer instance="interest-n.int257" senseid="interest_5"/>
+<context>
+ <s> in addition to an 18 % stake in the veslefrikk offshore field , the norwegian unit has <head>interests</head> ranging from 10 % to 25 % in three other norwegian oil and gas production licenses . </s> 
+</context>
+</instance>
+<instance id="interest-n.int688">
+<answer instance="interest-n.int688" senseid="interest_5"/>
+<context>
+ <s> under terms of the transaction , which was proposed in june , doman said it acquired international forest products ltd. 's 22 % stake in western forest , and western forest , in a related transaction , bought back a 22 % <head>interest</head> in the company from fletcher challenge canada ltd . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1549">
+<answer instance="interest-n.int1549" senseid="interest_6"/>
+<context>
+ <s> the critical next step was carving up the leases and packaging them in limited partnerships that would throw off tax losses generated by heavy <head>interest</head> payments and depreciation . </s> 
+</context>
+</instance>
+<instance id="interest-n.int675">
+<answer instance="interest-n.int675" senseid="interest_5"/>
+<context>
+ <s> analysts said they were impressed by the performance of the company 's newspaper group , which consists of the times , 35 regional newspapers and a one-third <head>interest</head> in the international herald tribune ; group operating profit for the quarter increased slightly to $ 34.9 million from $ 34.5 million on flat revenue . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1787">
+<answer instance="interest-n.int1787" senseid="interest_6"/>
+<context>
+ <s> frankfurt prices fell across the board amid continued rumors the bundesbank will call for an emergency meeting thursday to raise <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1210">
+<answer instance="interest-n.int1210" senseid="interest_6"/>
+<context>
+ <s> expectations of falling <head>interest</head> rates were sparked by friday 's release of weaker-than-expected september employment data . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2048">
+<answer instance="interest-n.int2048" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> for the month ended sept. 15 fell 1.3 % on the new york stock exchange but crept up less than 1 % to a record on the american stock exchange . </s> 
+</context>
+</instance>
+<instance id="interest-n.int653">
+<answer instance="interest-n.int653" senseid="interest_5"/>
+<context>
+ <s> as part of its decision to leave the building , chase tried to sell its <head>interest</head> , along with the atlas estate 's *interest , shortly after the october 1987 stock market crash . </s> 
+</context>
+</instance>
+<instance id="interest-n.int497">
+<answer instance="interest-n.int497" senseid="interest_6"/>
+<context>
+ <s> banking stocks were the major gainers monday amid hope that <head>interest</head> rates have peaked , as deutsche bank and dresdner bank added 4 marks each to 664 marks ( $ 357 ) and 326 marks , respectively . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2246">
+<answer instance="interest-n.int2246" senseid="interest_6"/>
+<context>
+ <s> either the yen will weaken further , as many analysts believe , or the bank of japan will boost <head>interest</head> rates to defend the yen as well as quell domestic inflationary pressures . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2253">
+<answer instance="interest-n.int2253" senseid="interest_5"/>
+<context>
+ <s> news corp. sold its book-publishing <head>interests</head> , including harper & row publishers inc. and william collins plc , for about $ 1.3 billion to a joint-venture company owned by news corp. and a company associated with credit suisse first boston . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1077">
+<answer instance="interest-n.int1077" senseid="interest_5"/>
+<context>
+ <s> the wide disparity between open <head>interest</head> and deliverable supplies is n't as great as the numbers suggest because the vast majority of futures contracts are simply nullified by offsetting trades and most option contracts typically expire unexercised . </s> 
+</context>
+</instance>
+<instance id="interest-n.int992">
+<answer instance="interest-n.int992" senseid="interest_6"/>
+<context>
+ <s> '' stocks drew some support from falling <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1821">
+<answer instance="interest-n.int1821" senseid="interest_6"/>
+<context>
+ <s> he said that since mexico and its bankers reached a proposed agreement following the strategy , domestic <head>interest</head> rates in that country have dropped to 34 % from 55 % , cutting the government 's *interest payments on its domestic debt by as much as $ 10 billion a year . </s> 
+</context>
+</instance>
+<instance id="interest-n.int723">
+<answer instance="interest-n.int723" senseid="interest_5"/>
+<context>
+ <s> canadian pacific , which has <head>interests</head> in transportation , telecommunications , forest products , energy and real estate , finally took its majority block off the market this spring . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2362">
+<answer instance="interest-n.int2362" senseid="interest_6"/>
+<context>
+ <s> `` lower <head>interest</head> rates and discount pricing have led to a rebound in spending on consumer durables , '' said william k. mac-reynolds , director of economic forecasting at the u.s. chamber of commerce . </s> 
+</context>
+</instance>
+<instance id="interest-n.int893">
+<answer instance="interest-n.int893" senseid="interest_6"/>
+<context>
+ <s> the fed allowed the key federal funds <head>interest</head> rate to dip to about 8 5 % from its levels of just below 9 % last week . </s> 
+</context>
+</instance>
+<instance id="interest-n.int727">
+<answer instance="interest-n.int727" senseid="interest_5"/>
+<context>
+ <s> the impact on japanese insurers and property owners with <head>interests</head> in the san francisco area is still being assessed , they said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2110">
+<answer instance="interest-n.int2110" senseid="interest_5"/>
+<context>
+ <s> goldstar industrial is a member company of lucky-goldstar , a company with <head>interests</head> in electronics , chemistry and energy , and a network of 34 companies and 110,000 employees in more than 37 countries world-wide . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2233">
+<answer instance="interest-n.int2233" senseid="interest_5"/>
+<context>
+ <s> but the companies ' combined voting <head>interest</head> is under 20 % because $ 400 million of their stake is in preferred stock . </s> 
+</context>
+</instance>
+<instance id="interest-n.int499">
+<answer instance="interest-n.int499" senseid="interest_6"/>
+<context>
+ <s> <head>interest</head> income rose 29 % to about $ 1.35 billion from $ 1.05 billion . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1972">
+<answer instance="interest-n.int1972" senseid="interest_5"/>
+<context>
+ <s> while unilever no longer has any financial <head>interest</head> in the agency , it is far and away lintas 's largest , and longest-standing , client . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2001">
+<answer instance="interest-n.int2001" senseid="interest_5"/>
+<context>
+ <s> the deal will be treated as a pooling of <head>interest</head> , which combines the income statements and balance sheets of the two companies and does n't create any good will . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1737">
+<answer instance="interest-n.int1737" senseid="interest_6"/>
+<context>
+ <s> for years , yield-hungry investors earned extra <head>interest</head> by making federally insured deposits in troubled s&ls that had to pay above-market rates to attract funds . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1822">
+<answer instance="interest-n.int1822" senseid="interest_6"/>
+<context>
+ <s> citing the need to conserve foreign exchange , brazil last week failed to make a scheduled $ 1.6 billion <head>interest</head> payment to its international banks . </s> 
+</context>
+</instance>
+<instance id="interest-n.int370">
+<answer instance="interest-n.int370" senseid="interest_6"/>
+<context>
+ <s> the ratings concern said the acquisition should result in pretax losses from operations because of increases in <head>interest</head> expense and charges for depreciation and amortization , but that it expects the losses to be reduced through productivity gains and above average growth of the company 's hospitals . </s> 
+</context>
+</instance>
+<instance id="interest-n.int796">
+<answer instance="interest-n.int796" senseid="interest_6"/>
+<context>
+ <s> by concealing the non-enforcement agreement , certain transactions with messrs. taylor and watson were entered on firstsouth 's books as loans , allowing the thrift to report fees and <head>interest</head> as current income , according to the u.s. attorney 's office in little rock , ark . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1345">
+<answer instance="interest-n.int1345" senseid="interest_6"/>
+<context>
+ <s> the remainder is for debt <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2205">
+<answer instance="interest-n.int2205" senseid="interest_6"/>
+<context>
+ <s> his analysis tries to adjust for the effect of big changes -- such as the federal reserve 's freeing of <head>interest</head> rates in 1979 or the big spike in inflation in the last decade -- on the relative behavior of different assets . </s> 
+</context>
+</instance>
+<instance id="interest-n.int867">
+<answer instance="interest-n.int867" senseid="interest_6"/>
+<context>
+ <s> such loans to argentina also remain classified as non-accruing , costing the bank $ 10 million of <head>interest</head> income in the third period . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1867">
+<answer instance="interest-n.int1867" senseid="interest_5"/>
+<context>
+ <s> the advance in otc short *interest in the latest month compares with a 1.3 % decline in short <head>interest</head> on the new york stock exchange and an increase of less than 1 % on the american stock exchange during the same period . </s> 
+</context>
+</instance>
+<instance id="interest-n.int852">
+<answer instance="interest-n.int852" senseid="interest_5"/>
+<context>
+ <s> k mart tested the warehouse-club sector last year with its acquisition of a 51 % <head>interest</head> in makro inc . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1961">
+<answer instance="interest-n.int1961" senseid="interest_5"/>
+<context>
+ <s> '' for britain , freer access to a market of 250 million prosperous and english-speaking people could give a needed boost to its manufacturing and marketing <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int93">
+<answer instance="interest-n.int93" senseid="interest_6"/>
+<context>
+ <s> after a surprisingly sharp widening in the u.s. august merchandise trade deficit -- $ 10.77 billion from a revised $ 8.24 billion in july and well above expectations -- and a startling 190-point drop in stock prices on oct. 13 , the federal reserve relaxed short-term <head>interest</head> rates , knocking fed funds from around 9 % to 8 34 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2351">
+<answer instance="interest-n.int2351" senseid="interest_5"/>
+<context>
+ <s> prudential insurance co. of america completed its acquisition of merrill lynch & co. 's 75 % <head>interest</head> in fine homes international l.p. for more than $ 300 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int398">
+<answer instance="interest-n.int398" senseid="interest_5"/>
+<context>
+ <s> although a finnish group has a minority <head>interest</head> in an already operating moscow hotel , the sheraton-pan am venture will be the first joint-venture hotels in the soviet union to have as much as 50 % foreign ownership . </s> 
+</context>
+</instance>
+<instance id="interest-n.int885">
+<answer instance="interest-n.int885" senseid="interest_5"/>
+<context>
+ <s> united biscuits ( holdings ) plc , a british food producer , announced the creation of a european group to bring together its trading <head>interests</head> in the region . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1076">
+<answer instance="interest-n.int1076" senseid="interest_5"/>
+<context>
+ <s> that makes the total open <head>interest</head> in copper futures and options equal to 378,326 tons . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1189">
+<answer instance="interest-n.int1189" senseid="interest_5"/>
+<context>
+ <s> as part of an ongoing restructuring program , usx corp. said it sold its equity <head>interests</head> in three south african companies that produce raw materials that no longer were essential to its operations . </s> 
+</context>
+</instance>
+<instance id="interest-n.int848">
+<answer instance="interest-n.int848" senseid="interest_6"/>
+<context>
+ <s> in a sagging market , the federal reserve system `` might flood the market with funds , and that should bring <head>interest</head> rates down , '' says leonard t. anctil , vice president of the bank of new england , boston . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1700">
+<answer instance="interest-n.int1700" senseid="interest_5"/>
+<context>
+ <s> additionally , the pending sale of a 12 % <head>interest</head> in enron oil & gas , which moody 's expects to generate proceeds of at least $ 130 million , will enable enron to continue its ongoing debt-reduction program and reduce its interest burden , moody 's said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1255">
+<answer instance="interest-n.int1255" senseid="interest_5"/>
+<context>
+ <s> he forced the european airline to reduce its planned investment , saying that it contravened the spirit of the federal aviation laws that prohibit foreigners from owning more than a 25 % voting <head>interest</head> in u.s. airlines and that say the carriers must be controlled by u.s. citizens . </s> 
+</context>
+</instance>
+<instance id="interest-n.int286">
+<answer instance="interest-n.int286" senseid="interest_5"/>
+<context>
+ <s> for the nine months , net income fell 71 % to $ 317.3 million , or $ 14.66 a share , from $ 1.1 billion , or $ 34.35 a share , which includes the gain from the sale of covia <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int211">
+<answer instance="interest-n.int211" senseid="interest_5"/>
+<context>
+ <s> '' under its revised proposal , atlanta-based bellsouth would have a 50 % <head>interest</head> in the new cellular company and would be responsible for half of its debt . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1682">
+<answer instance="interest-n.int1682" senseid="interest_5"/>
+<context>
+ <s> profit after tax and minority <head>interests</head> , or profit attributable to shareholders , rose 25 % to # 70.5 million from # 56.6 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1103">
+<answer instance="interest-n.int1103" senseid="interest_6"/>
+<context>
+ <s> applications $ 18,457,957,000 accepted bids $ 7,530,802,000 accepted at low price 74 % accepted noncompetitively $ 221,000,000 average price ( rate ) 99.579 ( 8.08 % ) high price ( rate ) 99.631 ( 8.07 % ) low price ( rate ) 99.579 ( 8.08 % ) <head>interest</head> rate 8.00 % the notes are dated october 16 and mature october 15 , 1996 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1853">
+<answer instance="interest-n.int1853" senseid="interest_5"/>
+<context>
+ <s> nova is a pipeline , oil and gas , and petrochemical concern based in calgary ; westcoast , based in vancouver , has oil , gas , and pipeline <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2122">
+<answer instance="interest-n.int2122" senseid="interest_5"/>
+<context>
+ <s> negotiations for long-term financing , involving mr. rodale 's acquisition of a minority <head>interest</head> in the store , are in progress , robert contant , a saint mark 's partner , added . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1748">
+<answer instance="interest-n.int1748" senseid="interest_5"/>
+<context>
+ <s> the remaining <head>interests</head> are divided among many other partners . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1832">
+<answer instance="interest-n.int1832" senseid="interest_6"/>
+<context>
+ <s> they also worried that the treasury 's huge borrowing needs would drive up <head>interest</head> rates further . </s> 
+</context>
+</instance>
+<instance id="interest-n.int970">
+<answer instance="interest-n.int970" senseid="interest_5"/>
+<context>
+ <s> nbc may yet find a way to take a passive , minority <head>interest</head> in a program-maker without violating the rules . </s> 
+</context>
+</instance>
+<instance id="interest-n.int830">
+<answer instance="interest-n.int830" senseid="interest_5"/>
+<context>
+ <s> the purchase comes after nearly three years of on-again off-again talks between tci and viacom , which has also discussed the sale of an <head>interest</head> in showtime with other cable operators . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1074">
+<answer instance="interest-n.int1074" senseid="interest_5"/>
+<context>
+ <s> the december open <head>interest</head> is equivalent to 236,913 tons of copper . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1296">
+<answer instance="interest-n.int1296" senseid="interest_6"/>
+<context>
+ <s> analysts said fear of higher <head>interest</head> rates prompted investors to sell large-capitalization issues , which are driven by excess liquidity in the market , in favor of smaller companies . </s> 
+</context>
+</instance>
+<instance id="interest-n.int753">
+<answer instance="interest-n.int753" senseid="interest_6"/>
+<context>
+ <s> currently , even though the issuer does n't pay tax , the debt holder is taxed on the accrued <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int343">
+<answer instance="interest-n.int343" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> in international mobile machines corp. fell to 3,102,935 shares in the month ended oct. 13 from 3,420,936 in september . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1065">
+<answer instance="interest-n.int1065" senseid="interest_6"/>
+<context>
+ <s> several say investors claim to want event-risk protection until they discover they will have to pay for it by lower <head>interest</head> rates on their bonds . </s> 
+</context>
+</instance>
+<instance id="interest-n.int832">
+<answer instance="interest-n.int832" senseid="interest_5"/>
+<context>
+ <s> cross & trecker is also selling its equity <head>interest</head> in a japanese joint venture , murata warner swasey , to murata machinery . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1876">
+<answer instance="interest-n.int1876" senseid="interest_5"/>
+<context>
+ <s> as of sept. 15 , short <head>interest</head> in 2,391 national market system securities totaled 185.3 million shares , compared with 183.4 million shares in 2,413 issues as of mid-august . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2128">
+<answer instance="interest-n.int2128" senseid="interest_6"/>
+<context>
+ <s> although the likelihood of such an increase is n't great , traders do n't want to be holding dollars should the bundesbank decide today that inflationary threats justify an <head>interest</head> rate increase . </s> 
+</context>
+</instance>
+<instance id="interest-n.int141">
+<answer instance="interest-n.int141" senseid="interest_6"/>
+<context>
+ <s> the loan , which carries a 9.65 % annual <head>interest</head> rate , was approved after scientific-atlanta won a $ 29.4 million contract to supply equipment and services for the project in chile . </s> 
+</context>
+</instance>
+<instance id="interest-n.int621">
+<answer instance="interest-n.int621" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> on the new york stock exchange declined for the second consecutive month , this time 4.2 % , while the american stock exchange reported its third consecutive record month of short *interest . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2085">
+<answer instance="interest-n.int2085" senseid="interest_6"/>
+<context>
+ <s> the market 's weakness reflects growing sentiment that the central bank will eventually push <head>interest</head> rates higher . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2094">
+<answer instance="interest-n.int2094" senseid="interest_6"/>
+<context>
+ <s> what is unnerving about first bank is that -- after a series of mishaps in energy , real estate and agriculture loans , and a disastrous wrong-way bet on <head>interest</head> rates , it , too , believed it was taking a conservative stance . </s> 
+</context>
+</instance>
+<instance id="interest-n.int32">
+<answer instance="interest-n.int32" senseid="interest_6"/>
+<context>
+ <s> at one point , hammersmith is reported to have accounted for as much as 10 % of the sterling market in <head>interest</head> rate swap dealings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int132">
+<answer instance="interest-n.int132" senseid="interest_6"/>
+<context>
+ <s> takamori matsuda , an analyst at dresdner-abd securities , said fading expectation for lower <head>interest</head> rates made investors step back from real-estate shares , which advanced last week . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1127">
+<answer instance="interest-n.int1127" senseid="interest_6"/>
+<context>
+ <s> mortgage points -- <head>interest</head> paid in advance -- are n't reported by recipients to the irs now ; but the house bill would have lenders report points to foster compliance . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1805">
+<answer instance="interest-n.int1805" senseid="interest_5"/>
+<context>
+ <s> ) inc. , its 83.8 % indirect <head>interest</head> in ralphs grocery co. and some of campeau 's prime canadian properties . </s> 
+</context>
+</instance>
+<instance id="interest-n.int705">
+<answer instance="interest-n.int705" senseid="interest_5"/>
+<context>
+ <s> in all , the los angeles-based trust plans to sell its <head>interests</head> in 36 hotels , while the corporation will sell its management *interests in 32 of those properties . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1642">
+<answer instance="interest-n.int1642" senseid="interest_6"/>
+<context>
+ <s> but he claims that that would be offset by an almost immediate drop in <head>interest</head> rates once financial markets understood that congress and the fed were serious about eradicating inflation . </s> 
+</context>
+</instance>
+<instance id="interest-n.int194">
+<answer instance="interest-n.int194" senseid="interest_6"/>
+<context>
+ <s> that means unisys must pay about $ 100 million in <head>interest</head> every quarter , on top of $ 27 million in dividends on preferred stock . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1939">
+<answer instance="interest-n.int1939" senseid="interest_6"/>
+<context>
+ <s> u.s. treasury efforts to get the fed to help bring down the dollar by lowering <head>interest</head> rates clearly have n't born fruit . </s> 
+</context>
+</instance>
+<instance id="interest-n.int784">
+<answer instance="interest-n.int784" senseid="interest_5"/>
+<context>
+ <s> while he adds that he has no problem with auction houses who sell works in which they have a financial <head>interest</head> , `` it ought not to be hidden in some small print . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1245">
+<answer instance="interest-n.int1245" senseid="interest_6"/>
+<context>
+ <s> `` we 're giving up $ 75 million in cash flow but picking up $ 115 million in reduced <head>interest</head> expense . </s> 
+</context>
+</instance>
+<instance id="interest-n.int384">
+<answer instance="interest-n.int384" senseid="interest_5"/>
+<context>
+ <s> the french water treatment group said consolidated net profit after payments to minority <head>interests</head> rose to 749 million francs ( us$ 119.2 million ) from 575 million francs in the first half of 1988 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int442">
+<answer instance="interest-n.int442" senseid="interest_5"/>
+<context>
+ <s> a majority stake in paxus currently held by nzi corp. will be diluted to slightly less than 50 % after ibm acquires its <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2101">
+<answer instance="interest-n.int2101" senseid="interest_6"/>
+<context>
+ <s> `` they went from asking 'why did those no-good-bums cut us loose , ' to 'who is going to lend us money at what <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1009">
+<answer instance="interest-n.int1009" senseid="interest_5"/>
+<context>
+ <s> varity corp. said its massey-ferguson farm machinery unit agreed to sell a majority <head>interest</head> in the italian-based landini tractor business to eurobelge s.a. of luxembourg . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2320">
+<answer instance="interest-n.int2320" senseid="interest_6"/>
+<context>
+ <s> in the same period , the so-called coverage ratio of service businesses -- their cash flow divided by their <head>interest</head> payments -- fell to 2.3-to-1 from 4.5-to-1 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1457">
+<answer instance="interest-n.int1457" senseid="interest_5"/>
+<context>
+ <s> bell group 's main assets are the west australian newspaper in perth and an <head>interest</head> in bell resources ltd . </s> 
+</context>
+</instance>
+<instance id="interest-n.int416">
+<answer instance="interest-n.int416" senseid="interest_5"/>
+<context>
+ <s> meritor savings again had the dubious honor of being the otc stock with the biggest short <head>interest</head> position on nasdaq . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1790">
+<answer instance="interest-n.int1790" senseid="interest_5"/>
+<context>
+ <s> columbia pictures added 14 to 26 12 on 4.9 million shares after sony confirmed reports that it agreed to acquire the company , including the 49 % <head>interest</head> owned by coca-cola , for $ 27 a share . </s> 
+</context>
+</instance>
+<instance id="interest-n.int335">
+<answer instance="interest-n.int335" senseid="interest_6"/>
+<context>
+ <s> in addition , they would receive some $ 200 million in payments for <head>interest</head> since then . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1123">
+<answer instance="interest-n.int1123" senseid="interest_6"/>
+<context>
+ <s> the appeals court ruled that when nonrecourse mortgage loans exceed the fair market value of property in a tax shelter , investors may still claim partial depreciation and <head>interest</head> deductions for the portion of the loans that do n't exceed fair market value . </s> 
+</context>
+</instance>
+<instance id="interest-n.int900">
+<answer instance="interest-n.int900" senseid="interest_5"/>
+<context>
+ <s> in a terse news release responding to an article yesterday in the wall street journal , which credited a front-page interview story in the sunday los angeles daily news , valhi inc. said the quotes in the articles `` do not accurately reflect valhi 's and mr. simmons 's intentions '' concerning their <head>interests</head> in lockheed . </s> 
+</context>
+</instance>
+<instance id="interest-n.int260">
+<answer instance="interest-n.int260" senseid="interest_5"/>
+<context>
+ <s> the issue , formally titled mnb home equity loan asset backed certificates , series 1989 , will represent <head>interest</head> in a trust fund of home equity revolving credit line loans originated by the retail finance division of maryland national bank and secured primarily by second deeds of trust or second mortgages on single to four-family residential properties . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1081">
+<answer instance="interest-n.int1081" senseid="interest_6"/>
+<context>
+ <s> specifically , the defendants are charged with creating fraudulent <head>interest</head> expenses in 1981 through prearranged , bogus transactions in government securities . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1725">
+<answer instance="interest-n.int1725" senseid="interest_5"/>
+<context>
+ <s> the group said all its majority-held bank <head>interests</head> contributed to the advance . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2285">
+<answer instance="interest-n.int2285" senseid="interest_5"/>
+<context>
+ <s> mitsui also has an option to purchase another 5 % <head>interest</head> later . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1658">
+<answer instance="interest-n.int1658" senseid="interest_5"/>
+<context>
+ <s> his 1988 indirect <head>interest</head> in abs was n't disclosed in merc regulatory filings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2126">
+<answer instance="interest-n.int2126" senseid="interest_5"/>
+<context>
+ <s> sale of the equity <head>interest</head> will result in a `` significant charge '' but the amount has n't been determined , it added . </s> 
+</context>
+</instance>
+<instance id="interest-n.int99">
+<answer instance="interest-n.int99" senseid="interest_6"/>
+<context>
+ <s> the head trader of chemical banking corp. 's <head>interest</head> rate options group has left the company , following valuation errors that resulted in a $ 33 million charge against its third-quarter results . </s> 
+</context>
+</instance>
+<instance id="interest-n.int189">
+<answer instance="interest-n.int189" senseid="interest_6"/>
+<context>
+ <s> our advice is this : immediately return the government surpluses to the economy through incentive-maximizing tax cuts , and find some monetary policy target that balances both supply and demand for money ( which neither aggregates nor <head>interest</head> rates can do ) . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2358">
+<answer instance="interest-n.int2358" senseid="interest_6"/>
+<context>
+ <s> alpine group inc. , aiming to cut <head>interest</head> costs , will offer a package of cash and securities for its $ 43.7 million debt outstanding . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1565">
+<answer instance="interest-n.int1565" senseid="interest_6"/>
+<context>
+ <s> but he adds a qualification : as the economy slows , <head>interest</head> rates will fall , perhaps sharply . </s> 
+</context>
+</instance>
+<instance id="interest-n.int488">
+<answer instance="interest-n.int488" senseid="interest_5"/>
+<context>
+ <s> rockwell international corp. bought out ikegai corp. 's <head>interest</head> in ikegai-goss , a joint venture of the two companies based in tokyo . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2309">
+<answer instance="interest-n.int2309" senseid="interest_6"/>
+<context>
+ <s> `` with the inclusion of the peseta and escudo , there is apt to be a rise in both the short - and long-term <head>interest</head> rates since the share of so-called soft-currency or high *interest countries in the currency basket will increase , '' according to a study of the ecu by ubs phillips & drew . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1036">
+<answer instance="interest-n.int1036" senseid="interest_6"/>
+<context>
+ <s> the third-quarter and year-earlier results do n't reflect $ 82 million of <head>interest</head> payments owed but not paid by brazil . </s> 
+</context>
+</instance>
+<instance id="interest-n.int742">
+<answer instance="interest-n.int742" senseid="interest_5"/>
+<context>
+ <s> in britain , those <head>interests</head> include the beefeater steakhouse chain and joint ownership with pepsico inc. of the country 's pizza hut chain . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2339">
+<answer instance="interest-n.int2339" senseid="interest_6"/>
+<context>
+ <s> the world bank loan to india will be at a variable <head>interest</head> rate , currently 7.74 % a year . </s> 
+</context>
+</instance>
+<instance id="interest-n.int208">
+<answer instance="interest-n.int208" senseid="interest_5"/>
+<context>
+ <s> in addition , new york-based lin would exercise its right to buy out for $ 1.9 billion the 55 % equity <head>interest</head> of its partner , metromedia co. , in a new york cellular franchise . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1145">
+<answer instance="interest-n.int1145" senseid="interest_5"/>
+<context>
+ <s> weyerhaeuser added that jujo paper co. of japan will increase its equity <head>interest</head> in north pacific paper to 20 % from 10 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1874">
+<answer instance="interest-n.int1874" senseid="interest_5"/>
+<context>
+ <s> although a surge in short *interest indicates speculation that a stock 's price will fall , many analysts view a firm base of short <head>interest</head> as healthy , because shares that are sold short must eventually be replaced through buying . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2360">
+<answer instance="interest-n.int2360" senseid="interest_5"/>
+<context>
+ <s> other properties include the company 's entire oil-and-gas assets in dubai , gabon and italy plus certain <head>interests</head> in ecuador , columbia and indonesia . </s> 
+</context>
+</instance>
+<instance id="interest-n.int917">
+<answer instance="interest-n.int917" senseid="interest_6"/>
+<context>
+ <s> the <head>interest</head> rate promised the banks was also relatively low ; 2 % over the rate banks charge each other in london , known as libor . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1838">
+<answer instance="interest-n.int1838" senseid="interest_6"/>
+<context>
+ <s> mr. poehl said monday that the bundesbank is pondering whether current <head>interest</head> rates are consistent with the strong economic growth in west germany . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2116">
+<answer instance="interest-n.int2116" senseid="interest_5"/>
+<context>
+ <s> american home , involved in anti-generic drug campaigns over the years , surprised some industry executives when it acquired controlling <head>interest</head> in quantum in 1986 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1973">
+<answer instance="interest-n.int1973" senseid="interest_6"/>
+<context>
+ <s> the new bonds would carry either a below-market <head>interest</head> rate or a discount on the value of the original loan . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1471">
+<answer instance="interest-n.int1471" senseid="interest_6"/>
+<context>
+ <s> erc said the lines of credit with american security bank of washington , d.c. , and sovran bank of richmond , va. , are unsecured and <head>interest</head> rates are at or below the prime rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2056">
+<answer instance="interest-n.int2056" senseid="interest_5"/>
+<context>
+ <s> the largest big board drop in short <head>interest</head> volume was that of panhandle eastern corp. , a pipeline company , to 495,904 shares from 6.4 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int76">
+<answer instance="interest-n.int76" senseid="interest_6"/>
+<context>
+ <s> it refinanced the judge 's loan , lowered its <head>interest</head> rate and accepted a trade-in that had n't originally been part of the deal -- a beat up 1981 chevy citation the dealer had to repair before it could be resold . </s> 
+</context>
+</instance>
+<instance id="interest-n.int689">
+<answer instance="interest-n.int689" senseid="interest_5"/>
+<context>
+ <s> the fletcher challenge canada stake was then canceled , doman said , raising doman 's <head>interest</head> in western forest to 56 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1046">
+<answer instance="interest-n.int1046" senseid="interest_6"/>
+<context>
+ <s> for does it make sense for congress to transfer money -- in the face of a mounting $ 2.9 trillion gross federal debt and net <head>interest</head> payments now at about $ 175 billion annually -- to states and localities that are themselves relatively debt-free . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2247">
+<answer instance="interest-n.int2247" senseid="interest_5"/>
+<context>
+ <s> mr. gross observed that the open <head>interest</head> , or the number of contracts remaining to be nullified by an opposite trade or fulfilled by delivery of copper , at 3,750 contracts yesterday was equal to 46,875 tons , or about three times the amount of copper in storage for delivery against the september contract . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1369">
+<answer instance="interest-n.int1369" senseid="interest_6"/>
+<context>
+ <s> while japan 's central bank is willing to let market <head>interest</head> rates edge higher , they contend that the ruling liberal democratic party 's political status remains too delicate to risk upsetting either japan 's economic growth or its stock market with higher official *interest rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1122">
+<answer instance="interest-n.int1122" senseid="interest_5"/>
+<context>
+ <s> mr. lee , an international businessman with substantial <head>interests</head> in real estate , importing and exporting , and public utilities , is believed to be living in taiwan . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1091">
+<answer instance="interest-n.int1091" senseid="interest_5"/>
+<context>
+ <s> the sale includes all of a&m 's record operations , its music video <head>interests</head> and a&m 's los angeles offices but not the music-publishing *interests . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1395">
+<answer instance="interest-n.int1395" senseid="interest_6"/>
+<context>
+ <s> the company defaulted in <head>interest</head> payments in sept . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1375">
+<answer instance="interest-n.int1375" senseid="interest_6"/>
+<context>
+ <s> '' according to traders , the rate rise heightened already strong fears that u.k. corporate profits will be harmed by high <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1706">
+<answer instance="interest-n.int1706" senseid="interest_6"/>
+<context>
+ <s> dallas county utility and reclamation district , texas -- $ 91.8 million of unlimited tax refunding and improvement bonds , series 1989 , with current <head>interest</head> bonds due in 1999 and capital appreciation bonds due 2000-2020 , tentatively priced by a merrill lynch capital markets group to yield from 7.10 % in 1999 to 7.70 % to maturity in 2009-2020 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int118">
+<answer instance="interest-n.int118" senseid="interest_5"/>
+<context>
+ <s> profit after tax and minority <head>interest</head> but before extraordinary items rose 12 % to # 135.2 million ; per-share earnings rose to five pence from 4.5 pence . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2013">
+<answer instance="interest-n.int2013" senseid="interest_5"/>
+<context>
+ <s> chrysler corp. , saying that it wanted to cash in on an investment that had soared in value , sold about half of its <head>interest</head> in mitsubishi motors corp. , in a move that will bring the u.s. auto maker about $ 310 million after taxes . </s> 
+</context>
+</instance>
+<instance id="interest-n.int517">
+<answer instance="interest-n.int517" senseid="interest_6"/>
+<context>
+ <s> for each $ 1,000 of notes , the maker of specialty metals , industrial fasteners and consumer products will pay $ 1,026.46 plus $ 8.68 of <head>interest</head> accrued from dec. 1 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1118">
+<answer instance="interest-n.int1118" senseid="interest_6"/>
+<context>
+ <s> tuesday , october 10 , 1989 the key u.s. and foreign annual <head>interest</head> rates below are a guide to general levels but do n't always represent actual transactions . </s> 
+</context>
+</instance>
+<instance id="interest-n.int291">
+<answer instance="interest-n.int291" senseid="interest_6"/>
+<context>
+ <s> `` there would have to be some cataclysmic event for us not to bring our <head>interest</head> rate down . </s> 
+</context>
+</instance>
+<instance id="interest-n.int603">
+<answer instance="interest-n.int603" senseid="interest_6"/>
+<context>
+ <s> like other zeros , they pay all their <head>interest</head> at maturity , meaning that buyers can time things so that their bonds pay off just when junior graduates from high school . </s> 
+</context>
+</instance>
+<instance id="interest-n.int244">
+<answer instance="interest-n.int244" senseid="interest_6"/>
+<context>
+ <s> with average maturities of a month or so , money funds offer fixed share prices and floating returns that track market <head>interest</head> rates , with a slight lag . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1284">
+<answer instance="interest-n.int1284" senseid="interest_6"/>
+<context>
+ <s> a sharp rise in european <head>interest</head> rates last week over and above increases throughout this year could crimp metals demand , dealers say . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2030">
+<answer instance="interest-n.int2030" senseid="interest_5"/>
+<context>
+ <s> cie. de saint gobain said consolidated net income after payments to minority <head>interests</head> rose 15 % to 2.01 billion french francs ( $ 305.7 million ) in the first half of 1989 , reflecting continued strong demand across most major markets and product ranges . </s> 
+</context>
+</instance>
+<instance id="interest-n.int510">
+<answer instance="interest-n.int510" senseid="interest_5"/>
+<context>
+ <s> new canaan investments is a closely held investment partnership with <head>interests</head> primarily in the packaging industry . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2009">
+<answer instance="interest-n.int2009" senseid="interest_5"/>
+<context>
+ <s> van kampen merritt prime rate income trust -- 11.5 million shares of beneficial <head>interest</head> , via prudential-bache . </s> 
+</context>
+</instance>
+<instance id="interest-n.int691">
+<answer instance="interest-n.int691" senseid="interest_6"/>
+<context>
+ <s> but traders said the market lacks a base on which to set long-term buying strategy , as the future direction of u.s. <head>interest</head> rates remains unclear . </s> 
+</context>
+</instance>
+<instance id="interest-n.int247">
+<answer instance="interest-n.int247" senseid="interest_6"/>
+<context>
+ <s> while wall street 's tough times and lower u.s. <head>interest</head> rates continue to undermine the dollar , weakness in the pound and the yen is expected to offset those factors . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1305">
+<answer instance="interest-n.int1305" senseid="interest_6"/>
+<context>
+ <s> rising <head>interest</head> rates , meanwhile , battered government funds , whose value fell an average of 1.37 % for the quarter before *interest payments . </s> 
+</context>
+</instance>
+<instance id="interest-n.int349">
+<answer instance="interest-n.int349" senseid="interest_6"/>
+<context>
+ <s> money funds invest in such things as short-term treasury securities , commercial paper and certificates of deposit , all of which have been posting lower <head>interest</head> rates since last spring . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1001">
+<answer instance="interest-n.int1001" senseid="interest_6"/>
+<context>
+ <s> continental bank corp. -- $ 150 million of floating-rate notes , due oct. 18 , 1994 , priced with an <head>interest</head> rate that will float 15 basis points above the three-month london interbank offered rate . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1989">
+<answer instance="interest-n.int1989" senseid="interest_6"/>
+<context>
+ <s> the pharmaceuticals concern said the notes will be redeemed at a price of 104.725 plus accrued but unpaid <head>interest</head> to the redemption date . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1259">
+<answer instance="interest-n.int1259" senseid="interest_6"/>
+<context>
+ <s> friday , october 6 , 1989 the key u.s. and foreign annual <head>interest</head> rates below are a guide to general levels but do n't always represent actual transactions . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1759">
+<answer instance="interest-n.int1759" senseid="interest_5"/>
+<context>
+ <s> also included in the package will be henley group 's headquarters building in la jolla , calif. and a 50 % <head>interest</head> in a new hampshire oceanfront development . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2217">
+<answer instance="interest-n.int2217" senseid="interest_5"/>
+<context>
+ <s> in a filing with the securities and exchange commission , shearson said it is also considering having gulf applied acquire businesses or <head>interests</head> in oil and gas properties or liquidating or selling part of the company 's assets . </s> 
+</context>
+</instance>
+<instance id="interest-n.int423">
+<answer instance="interest-n.int423" senseid="interest_5"/>
+<context>
+ <s> the october short <head>interest</head> represents 1.04 days of average daily trading volume in the smaller stocks in the system for the reporting period , compared with 0.94 day a month ago . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2301">
+<answer instance="interest-n.int2301" senseid="interest_5"/>
+<context>
+ <s> henry kissinger , who has opposed sanctions against china and who has extensive business <head>interests</head> of his own in china , turned down an invitation to speak at the event . </s> 
+</context>
+</instance>
+<instance id="interest-n.int632">
+<answer instance="interest-n.int632" senseid="interest_5"/>
+<context>
+ <s> the amex short <head>interest</head> volume leader again was texas air corp. , rising to 3,820,634 shares from 3,363,949 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1801">
+<answer instance="interest-n.int1801" senseid="interest_6"/>
+<context>
+ <s> the partners over 15 years were allowed to deduct from their personal taxes the <head>interest</head> on the borrowings , depreciation and 7 % investment tax credit . </s> 
+</context>
+</instance>
+<instance id="interest-n.int415">
+<answer instance="interest-n.int415" senseid="interest_5"/>
+<context>
+ <s> intel 's short <head>interest</head> jumped 42 % , while campeau 's increased 62 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1262">
+<answer instance="interest-n.int1262" senseid="interest_6"/>
+<context>
+ <s> <head>interest</head> rates generally have been declining since last spring , despite a few upward blips in recent weeks . </s> 
+</context>
+</instance>
+<instance id="interest-n.int534">
+<answer instance="interest-n.int534" senseid="interest_6"/>
+<context>
+ <s> the plan , proposed by u.s. secretary of state nicholas brady , calls for banks either to make new loans or to reduce the principle on existing loans or to cut the <head>interest</head> rate on those existing loans . </s> 
+</context>
+</instance>
+<instance id="interest-n.int192">
+<answer instance="interest-n.int192" senseid="interest_6"/>
+<context>
+ <s> excluding those businesses , earnings before <head>interest</head> , taxes and depreciation for 1988 would have been $ 728.5 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int684">
+<answer instance="interest-n.int684" senseid="interest_5"/>
+<context>
+ <s> for all of 1988 , dumez had group profit of 452 million francs after payment to minority <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int823">
+<answer instance="interest-n.int823" senseid="interest_6"/>
+<context>
+ <s> polaroid reported operating profit before taxes and <head>interest</head> costs of $ 63.1 million for the third quarter , more than double the year-before $ 24 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2117">
+<answer instance="interest-n.int2117" senseid="interest_5"/>
+<context>
+ <s> new york-based american home has <head>interests</head> in prescription and over-the-counter drugs , medical supplies and food and household products . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2024">
+<answer instance="interest-n.int2024" senseid="interest_6"/>
+<context>
+ <s> the bundesbank , appearing to signal a further rise in west german <head>interest</head> rates , said previous rate-tightening steps have n't sufficiently reduced the danger of inflation . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1640">
+<answer instance="interest-n.int1640" senseid="interest_6"/>
+<context>
+ <s> current law instructs the fed `` to promote effectively the goals of maximum employment , stable prices and moderate long-term <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int345">
+<answer instance="interest-n.int345" senseid="interest_6"/>
+<context>
+ <s> `` with the decline in stock prices and continued low or stable <head>interest</head> rates , stocks are representing a better value all the time , '' renaissance president frank w. terrizzi said yesterday . </s> 
+</context>
+</instance>
+<instance id="interest-n.int714">
+<answer instance="interest-n.int714" senseid="interest_5"/>
+<context>
+ <s> lin would have a priority right to pursue all opportunities to acquire u.s. cellular <head>interests</head> in markets other than those in which mccaw holds an *interest , or which are contiguous to those markets , unless lin has an *interest there or contiguous to it . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2162">
+<answer instance="interest-n.int2162" senseid="interest_5"/>
+<context>
+ <s> minorco is the foreign investment arm of anglo american corp. of south africa ltd. and has mining and industrial <head>interest</head> in the u.k. , north and south america and australia . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2355">
+<answer instance="interest-n.int2355" senseid="interest_6"/>
+<context>
+ <s> congress president jerome kenyon said federated and allied are n't behind in their bills , but he said congress was `` concerned that campeau would n't be able to meet their <head>interest</head> payments . </s> 
+</context>
+</instance>
+<instance id="interest-n.int445">
+<answer instance="interest-n.int445" senseid="interest_5"/>
+<context>
+ <s> some of the oil <head>interests</head> already have been sold . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1494">
+<answer instance="interest-n.int1494" senseid="interest_5"/>
+<context>
+ <s> in the metromedia purchase , mccaw would acquire a 50 % voting <head>interest</head> and a 45.67 % equity *interest in the new york city non-wireline cellular franchise . </s> 
+</context>
+</instance>
+<instance id="interest-n.int930">
+<answer instance="interest-n.int930" senseid="interest_5"/>
+<context>
+ <s> but its competitors -- including dow chemical co. , union carbide corp. and several oil giants -- have much broader business <head>interests</head> and so are better cushioned against price swings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2027">
+<answer instance="interest-n.int2027" senseid="interest_5"/>
+<context>
+ <s> for instance , u s west purchased an <head>interest</head> in a u.k. cable company that one day may be allowed to provide telephone service over the cable network . </s> 
+</context>
+</instance>
+<instance id="interest-n.int284">
+<answer instance="interest-n.int284" senseid="interest_6"/>
+<context>
+ <s> thursday , october 26 , 1989 the key u.s. and foreign annual <head>interest</head> rates below are a guide to general levels but do n't always represent actual transactions . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1850">
+<answer instance="interest-n.int1850" senseid="interest_5"/>
+<context>
+ <s> under the agreement , ormat will sell a 50 % <head>interest</head> in its puna geothermal ventures unit to hawaiian electric . </s> 
+</context>
+</instance>
+<instance id="interest-n.int436">
+<answer instance="interest-n.int436" senseid="interest_5"/>
+<context>
+ <s> net in the latest quarter included a pretax gain of $ 22.4 million from the sale of combustion 's minority <head>interest</head> in stein industrie to gec alsthom n.v. of the netherlands . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1506">
+<answer instance="interest-n.int1506" senseid="interest_5"/>
+<context>
+ <s> hca said the terms of its new agreement call for a purchase price of $ 68.3 million for its equity <head>interest</head> in the australian operations and the repayment of certain debt owed to hospital corp. by its australian subsidiary . </s> 
+</context>
+</instance>
+<instance id="interest-n.int505">
+<answer instance="interest-n.int505" senseid="interest_5"/>
+<context>
+ <s> mr. skase also disclosed a disagreement among directors of qintex australia over certain fees claimed by qintex group management services pty. , a management-services concern in which qintex australia executives have an <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int760">
+<answer instance="interest-n.int760" senseid="interest_5"/>
+<context>
+ <s> in addition , hunter said it will use proceeds from a private placement of $ 8 million of preferred shares to purchase an <head>interest</head> in a start-up company to underwrite environmental impairment insurance . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1668">
+<answer instance="interest-n.int1668" senseid="interest_6"/>
+<context>
+ <s> mr. murphy reckons that u.s. <head>interest</head> rates are set to remain where they are for some time . </s> 
+</context>
+</instance>
+<instance id="interest-n.int73">
+<answer instance="interest-n.int73" senseid="interest_5"/>
+<context>
+ <s> the loan is backed by healthcare 's 5.4 % stake in healthvest and <head>interest</head> in certain facilities . </s> 
+</context>
+</instance>
+<instance id="interest-n.int203">
+<answer instance="interest-n.int203" senseid="interest_5"/>
+<context>
+ <s> ra acquired the howick coal mine oct. 20 when it bought british petroleum co. 's australian coal <head>interests</head> for $ 275 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1358">
+<answer instance="interest-n.int1358" senseid="interest_6"/>
+<context>
+ <s> england 's central bank signaled a rise in <head>interest</head> rates , causing barclays bank plc and other large commercial banks to raise their base lending rates to 15 % from 14 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1280">
+<answer instance="interest-n.int1280" senseid="interest_6"/>
+<context>
+ <s> `` and that certainly increases the odds that <head>interest</head> rates will move lower soon . </s> 
+</context>
+</instance>
+<instance id="interest-n.int358">
+<answer instance="interest-n.int358" senseid="interest_6"/>
+<context>
+ <s> at the same time , investors estimate the restructuring would cut the company 's annual cash <head>interest</head> bill from about $ 90 million to $ 85 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int991">
+<answer instance="interest-n.int991" senseid="interest_6"/>
+<context>
+ <s> a move to lower <head>interest</head> rates `` remains contingent on evidence that domestic demand is slowing , '' said susan hering , an economist at salomon brothers inc . </s> 
+</context>
+</instance>
+<instance id="interest-n.int135">
+<answer instance="interest-n.int135" senseid="interest_5"/>
+<context>
+ <s> rockefeller group said in september it would seek investors to purchase as much as 80 % of the firm , a holding company for rockefeller family <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1483">
+<answer instance="interest-n.int1483" senseid="interest_6"/>
+<context>
+ <s> that is one part of the loss sustained by taxpayers , offset to an extent that is not reported by the <head>interest</head> earned on foreign-exchange holdings . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1377">
+<answer instance="interest-n.int1377" senseid="interest_6"/>
+<context>
+ <s> concern over currency fluctuations and expectations of the west german <head>interest</head> rate increase encouraged investors to `` get on and then off quickly on one issue after another , '' a trader at dai-ichi securities said , describing an aggressive desire to take profits quickly . </s> 
+</context>
+</instance>
+<instance id="interest-n.int922">
+<answer instance="interest-n.int922" senseid="interest_6"/>
+<context>
+ <s> '' in the past week and a half , major european countries -- led by west germany and japan -- raised official domestic <head>interest</head> rates , mostly to keep their currencies from falling further and to stem the inflationary impact of those declines . </s> 
+</context>
+</instance>
+<instance id="interest-n.int408">
+<answer instance="interest-n.int408" senseid="interest_5"/>
+<context>
+ <s> however , the short <head>interest</head> figures reported by brokerage and securities clearing firms to the national association of securities dealers include only those trades completed , or settled , by oct. 13 , rather than trades that occurred on that day , according to gene finn , chief economist for the nasd . </s> 
+</context>
+</instance>
+<instance id="interest-n.int381">
+<answer instance="interest-n.int381" senseid="interest_5"/>
+<context>
+ <s> in addition to insurance and finance , itt has <head>interests</head> in electronic parts , defense technology , automotive parts , fluid technology , pulp and timber , and communications and information services . </s> 
+</context>
+</instance>
+<instance id="interest-n.int631">
+<answer instance="interest-n.int631" senseid="interest_5"/>
+<context>
+ <s> also closely watched is exxon corp. , where short <head>interest</head> slid to 4,469,167 shares from 5,088,774 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int961">
+<answer instance="interest-n.int961" senseid="interest_6"/>
+<context>
+ <s> -- in september , just as the cash squeeze hit campeau , lomas financial corp. defaulted on $ 145 million of notes and appeared unlikely to pay <head>interest</head> on a total of $ 1.2 billion of debt securities . </s> 
+</context>
+</instance>
+<instance id="interest-n.int344">
+<answer instance="interest-n.int344" senseid="interest_5"/>
+<context>
+ <s> ( see : `` short <head>interest</head> in otc stocks posts 6 % jump -- rise during latest period is sharpest since april ; oct. 13 drop is n't factor '' -- wsj oct. 25 , 1989 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1651">
+<answer instance="interest-n.int1651" senseid="interest_6"/>
+<context>
+ <s> such strong gains , of course , may not happen if the economy suddenly picks up strength or if <head>interest</head> rates rise . </s> 
+</context>
+</instance>
+<instance id="interest-n.int538">
+<answer instance="interest-n.int538" senseid="interest_5"/>
+<context>
+ <s> home beneficial corp. , richmond , va. , said it contracted to sell its 50 % <head>interest</head> in a richmond-area shopping mall to a buyer that was n't identified . </s> 
+</context>
+</instance>
+<instance id="interest-n.int102">
+<answer instance="interest-n.int102" senseid="interest_6"/>
+<context>
+ <s> according to individuals familiar with the situation , the frankfurt loss stemmed from a computer program for calculating prices on forward-rate agreements that failed to envision an <head>interest</head> rate environment where short-term rates were equal to or higher than long-term rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2206">
+<answer instance="interest-n.int2206" senseid="interest_6"/>
+<context>
+ <s> pantera 's , which operates the pizza inn chain , received a waiver from its lenders extending until sept. 29 a $ 4.6 million <head>interest</head> and principal payment that had been due aug. 1 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1116">
+<answer instance="interest-n.int1116" senseid="interest_6"/>
+<context>
+ <s> he believes the <head>interest</head> rate worries were just an excuse for the already-nervous . </s> 
+</context>
+</instance>
+<instance id="interest-n.int281">
+<answer instance="interest-n.int281" senseid="interest_6"/>
+<context>
+ <s> the company also said it would n't make the semiannual <head>interest</head> payment on its $ 40 million of 7 % convertible subordinated debentures by the nov. 1 due date or within the grace period . </s> 
+</context>
+</instance>
+<instance id="interest-n.int806">
+<answer instance="interest-n.int806" senseid="interest_5"/>
+<context>
+ <s> currently , mr. merksamer owns 20 % of the company ; l.j. hooker acquired its 80 % <head>interest</head> in the firm in may 1986 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int111">
+<answer instance="interest-n.int111" senseid="interest_5"/>
+<context>
+ <s> for all of 1988 , bouygues had consolidated profit of 519 million francs , after payments to minority <head>interests</head> , on revenue of 50 billion francs . </s> 
+</context>
+</instance>
+<instance id="interest-n.int169">
+<answer instance="interest-n.int169" senseid="interest_5"/>
+<context>
+ <s> allianz said in its statement that it was acting to protect that <head>interest</head> , which ties it to navigation mixte as a partner . </s> 
+</context>
+</instance>
+<instance id="interest-n.int599">
+<answer instance="interest-n.int599" senseid="interest_5"/>
+<context>
+ <s> the company , which has <head>interests</head> in television , trucking services , and glass-making and food-processing equipment , said it plans to make other acquisitions in the telephone industry . </s> 
+</context>
+</instance>
+<instance id="interest-n.int845">
+<answer instance="interest-n.int845" senseid="interest_5"/>
+<context>
+ <s> dow jones & co. said it acquired a 15 % <head>interest</head> in datatimes corp. , a subsidiary of oklahoma publishing co. , oklahoma city , that provides electronic research services . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1407">
+<answer instance="interest-n.int1407" senseid="interest_6"/>
+<context>
+ <s> as markets gain experience with soviet gold-backed bonds , <head>interest</head> on the bonds could be expected to decline , perhaps approaching 2 % , the going rate for u.s. gold-mining-company gold bonds . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1089">
+<answer instance="interest-n.int1089" senseid="interest_6"/>
+<context>
+ <s> '' integrated , which has been struggling to avoid a bankruptcy-law filing since it failed to make <head>interest</head> payments in june on nearly $ 1 billion of debt , would use proceeds from the sale of the core businesses to restructure debt . </s> 
+</context>
+</instance>
+<instance id="interest-n.int371">
+<answer instance="interest-n.int371" senseid="interest_5"/>
+<context>
+ <s> the french unit of ferruzzi agricola finanziaria also disclosed a 40 % rise in its consolidated net profit for the first half of 1989 , excluding nonrecurring items and after payments to minority <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int128">
+<answer instance="interest-n.int128" senseid="interest_6"/>
+<context>
+ <s> his comments were interpreted as a sign that higher <head>interest</head> rates are possible . </s> 
+</context>
+</instance>
+<instance id="interest-n.int461">
+<answer instance="interest-n.int461" senseid="interest_5"/>
+<context>
+ <s> in august , asarco , through its lac d'amiante du quebec subsidiary , sold its remaining one-third <head>interest</head> in an asbestos mining limited partnership in canada for $ 11.7 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1770">
+<answer instance="interest-n.int1770" senseid="interest_6"/>
+<context>
+ <s> the results came amid a sharp deterioration in the u.k. housing market brought on by the high level of <head>interest</head> rates , abbey said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1364">
+<answer instance="interest-n.int1364" senseid="interest_5"/>
+<context>
+ <s> open <head>interest</head> is the number of contracts that have to be either nullified by an opposite trade or fulfilled by delivery of the commodity . </s> 
+</context>
+</instance>
+<instance id="interest-n.int541">
+<answer instance="interest-n.int541" senseid="interest_6"/>
+<context>
+ <s> in his mansion house speech , mr. lawson warned that a further slowdown can be expected as the impact of the last rise in <head>interest</head> rates earlier this month takes effect . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1871">
+<answer instance="interest-n.int1871" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> in novell , jaguar and st. paul cos. declined in the latest month . </s> 
+</context>
+</instance>
+<instance id="interest-n.int858">
+<answer instance="interest-n.int858" senseid="interest_6"/>
+<context>
+ <s> &rcub; <head>interest</head> rates , lower &lcub; u.s . </s> 
+</context>
+</instance>
+<instance id="interest-n.int988">
+<answer instance="interest-n.int988" senseid="interest_5"/>
+<context>
+ <s> earlier this month , gibbons green sold its <head>interest</head> in sheller-globe to united technologies . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1237">
+<answer instance="interest-n.int1237" senseid="interest_6"/>
+<context>
+ <s> national city corp. is having a strong profit year because of a wider-than-normal spread in <head>interest</head> rates and good economic conditions in its ohio and kentucky service area , edward b. brandon , chairman and chief executive officer , said . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2218">
+<answer instance="interest-n.int2218" senseid="interest_5"/>
+<context>
+ <s> csr ltd. and pioneer international ltd. agreed to buy the <head>interests</head> effective sept. 1 , according to a statement from peat marwick hungerfords . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1019">
+<answer instance="interest-n.int1019" senseid="interest_5"/>
+<context>
+ <s> the auto maker would n't say how the equity <head>interests</head> would be divided among the partners , but expressed hope that the transaction would be completed by year end . </s> 
+</context>
+</instance>
+<instance id="interest-n.int121">
+<answer instance="interest-n.int121" senseid="interest_5"/>
+<context>
+ <s> ogden projects , which has <head>interests</head> in solid-waste recovery and hazardous-waste cleanup , said it has 13 facilities in operation , up from seven a year ago . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2331">
+<answer instance="interest-n.int2331" senseid="interest_5"/>
+<context>
+ <s> he said canfor has no plans to boost its <head>interest</head> in newsprint production . </s> 
+</context>
+</instance>
+<instance id="interest-n.int62">
+<answer instance="interest-n.int62" senseid="interest_6"/>
+<context>
+ <s> but when market <head>interest</head> rates move up rapidly , increases in bank cd yields sometimes lag . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2227">
+<answer instance="interest-n.int2227" senseid="interest_6"/>
+<context>
+ <s> lower <head>interest</head> rates generally hurt the domestic currency by reducing the attractiveness of *interest-bearing investments denominated in that currency . </s> 
+</context>
+</instance>
+<instance id="interest-n.int232">
+<answer instance="interest-n.int232" senseid="interest_6"/>
+<context>
+ <s> the combined effect of these changes is expected to save the company about $ 4 million in <head>interest</head> expenses next year , or six cents a share . </s> 
+</context>
+</instance>
+<instance id="interest-n.int716">
+<answer instance="interest-n.int716" senseid="interest_5"/>
+<context>
+ <s> lin would have a priority right to pursue all opportunities to acquire u.s. cellular *interests in markets other than those in which mccaw holds an interest , or which are contiguous to those markets , unless lin has an <head>interest</head> there or contiguous to it . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1995">
+<answer instance="interest-n.int1995" senseid="interest_6"/>
+<context>
+ <s> in march , for example , surveys showed widespread fears among money managers that higher inflation would drive up <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1777">
+<answer instance="interest-n.int1777" senseid="interest_5"/>
+<context>
+ <s> sony also entered into an option agreement with allen & co. , which owns a 3 % <head>interest</head> in columbia . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1140">
+<answer instance="interest-n.int1140" senseid="interest_5"/>
+<context>
+ <s> the company , which also has <head>interests</head> in insurance brokerage , said that it is continuing negotiations with whitehall and that it is also `` engaged in serious discussions '' with another bidder that it did n't identify . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2054">
+<answer instance="interest-n.int2054" senseid="interest_5"/>
+<context>
+ <s> the level of negative sentiment measured by the big board short <head>interest</head> ratio rose to 3.38 from last month 's 3.13 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1176">
+<answer instance="interest-n.int1176" senseid="interest_6"/>
+<context>
+ <s> '' the bush administration has been urging the fed to help bring down the dollar by lowering short-term <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1852">
+<answer instance="interest-n.int1852" senseid="interest_5"/>
+<context>
+ <s> kaneb services inc. said it expects to report a gain of over $ 100 million in the third quarter from the sale of a 33 % limited-partner <head>interest</head> in its kaneb pipe line partners limited partnership . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1566">
+<answer instance="interest-n.int1566" senseid="interest_5"/>
+<context>
+ <s> the commercial bank group , france 's biggest in terms of total assets , said group profit after payments to minority <head>interests</head> rose to 1.475 billion francs ( $ 232.3 million ) from 1.308 billion francs in the first half of 1988 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int352">
+<answer instance="interest-n.int352" senseid="interest_6"/>
+<context>
+ <s> carl ericson , who runs the colonial intermediate high income fund , says the fund 's 25 % leverage has jacked up its <head>interest</head> income . </s> 
+</context>
+</instance>
+<instance id="interest-n.int258">
+<answer instance="interest-n.int258" senseid="interest_6"/>
+<context>
+ <s> <head>interest</head> during first year paid semiannually at 7.51 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int175">
+<answer instance="interest-n.int175" senseid="interest_5"/>
+<context>
+ <s> rockefeller group agreed to sell a 51 % <head>interest</head> to mitsubishi estate , a major japanese developer and property owner , for $ 846 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int523">
+<answer instance="interest-n.int523" senseid="interest_6"/>
+<context>
+ <s> the reason was not high <head>interest</head> rates or labor costs . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1920">
+<answer instance="interest-n.int1920" senseid="interest_5"/>
+<context>
+ <s> under the pact , oryx sold its <head>interests</head> in about 107 oil and gas fields in 12 states to american exploration co. of houston . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1760">
+<answer instance="interest-n.int1760" senseid="interest_6"/>
+<context>
+ <s> the eight-year bond will bear annual <head>interest</head> of 10.5 % that may be paid in cash or in the form of more debentures . </s> 
+</context>
+</instance>
+<instance id="interest-n.int954">
+<answer instance="interest-n.int954" senseid="interest_5"/>
+<context>
+ <s> friday 's approval was needed to conform with bourse rules regarding companies with bank <head>interests</head> and follows a similar approval given wednesday to cie . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1967">
+<answer instance="interest-n.int1967" senseid="interest_6"/>
+<context>
+ <s> and they asked the american officials whether they thought a 5 % <head>interest</head> rate on bonds would attract russian investors . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1071">
+<answer instance="interest-n.int1071" senseid="interest_6"/>
+<context>
+ <s> however , by setting up ford holdings , and selling the 25 % stake making it a stand-alone unit under the tax law , ford is n't required to consolidate these <head>interest</head> expenses and can preserve its foreign tax credits . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1592">
+<answer instance="interest-n.int1592" senseid="interest_5"/>
+<context>
+ <s> the group may seek to acquire a controlling <head>interest</head> in harley-davidson or seek representation on the company 's board . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2187">
+<answer instance="interest-n.int2187" senseid="interest_5"/>
+<context>
+ <s> calmat 's <head>interests</head> include concrete , asphalt and land development . </s> 
+</context>
+</instance>
+<instance id="interest-n.int546">
+<answer instance="interest-n.int546" senseid="interest_6"/>
+<context>
+ <s> the idea was to let small investors , the backbone of the fund business , deal in the money market 's high short-term <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int733">
+<answer instance="interest-n.int733" senseid="interest_5"/>
+<context>
+ <s> affiliated bankshares of colorado inc. said it agreed to sell its 10 % <head>interest</head> in rocky mountain bankcard systems for $ 18.5 million to colorado national bank of denver and central bank of denver . </s> 
+</context>
+</instance>
+<instance id="interest-n.int242">
+<answer instance="interest-n.int242" senseid="interest_6"/>
+<context>
+ <s> an <head>interest</head> rate is guaranteed for between one and seven years , after which holders get 30 days to choose another guarantee period or to switch to another insurer 's contract without the surrender charges that are common to annuities . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2315">
+<answer instance="interest-n.int2315" senseid="interest_5"/>
+<context>
+ <s> united brands co. said it sold its 18.5 % <head>interest</head> in fii fyffes plc , a distributor of fresh fruit and vegetables , principally in the united kingdom . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1095">
+<answer instance="interest-n.int1095" senseid="interest_6"/>
+<context>
+ <s> first union corp. , charlotte , n.c. , reported a 4.4 % decline in third-quarter earnings to $ 70.7 million , or 66 cents a share , as price competition continued to pressure net <head>interest</head> margins . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1869">
+<answer instance="interest-n.int1869" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> in first executive , a big buyer of junk bonds , rose 18 % to 2.5 million shares . </s> 
+</context>
+</instance>
+<instance id="interest-n.int740">
+<answer instance="interest-n.int740" senseid="interest_5"/>
+<context>
+ <s> the company , which is retaining most of its wine and all of its soft-drink <head>interests</head> , did n't break out results for the businesses it plans to sell . </s> 
+</context>
+</instance>
+<instance id="interest-n.int125">
+<answer instance="interest-n.int125" senseid="interest_6"/>
+<context>
+ <s> some analysts believe the company has the ability to pinpoint the trough in <head>interest</head> rate cycles . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1423">
+<answer instance="interest-n.int1423" senseid="interest_6"/>
+<context>
+ <s> there is no potential for negative amortization , because homeowners must make up <head>interest</head> shortfalls in cash . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1632">
+<answer instance="interest-n.int1632" senseid="interest_5"/>
+<context>
+ <s> `` b.a.t will still be a conglomerate with a curious melange of tobacco and insurance <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1190">
+<answer instance="interest-n.int1190" senseid="interest_5"/>
+<context>
+ <s> usx said its usx holdings inc. unit had held non-controlling <head>interests</head> in those companies since 1968 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int726">
+<answer instance="interest-n.int726" senseid="interest_6"/>
+<context>
+ <s> institutions , meanwhile , stepped back to the sidelines as the direction of u.s. <head>interest</head> rates remained unclear . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2305">
+<answer instance="interest-n.int2305" senseid="interest_6"/>
+<context>
+ <s> allied said it paid the <head>interest</head> on its 10 14 % senior notes due 1992 but did n't pay the *interest on its 11 12 % senior subordinated debentures due 1997 . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1714">
+<answer instance="interest-n.int1714" senseid="interest_6"/>
+<context>
+ <s> though many chains that have filed for bankruptcy protection or been forced to restructure were modestly profitable when acquired , they could n't support 17 % <head>interest</head> payments and repay bridge loans while preserving operating capital . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1600">
+<answer instance="interest-n.int1600" senseid="interest_6"/>
+<context>
+ <s> for example , one might consider the following possible revenue sources , with their annual yields as estimated by the congressional budget office : -- eliminate deductibility of state and local taxes -- $ 32.1 billion ; -- tax employer-paid heath insurance as income -- $ 25.1 billion ; -- raise premiums to cover 50 % of the cost of medicare supplementary medical insurance -- $ 18.6 billion ; -- limit the value of the mortgage <head>interest</head> deduction to 15 % of the *interest , the amount of the first-bracket tax rate -- $ 14.5 billion ; -- increase the motor fuel tax by 12 cents a gallon -- $ 11.7 billion ; -- tax 60 % of social security benefits as income -- $ 11.3 billion ; -- tax 30 % of capital gains from home sales -- $ 7.5 billion ; -- tax capital gains at death -- $ 5.8 billion ; -- raise the tax on distilled spirits by 20 % and raise beer and wine tax to the level of distilled spirits tax -- $ 4.4 billion ; -- double the cigarette tax -- $ 3 billion . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1551">
+<answer instance="interest-n.int1551" senseid="interest_5"/>
+<context>
+ <s> swissair owns 8 % and is planning to raise its <head>interest</head> to 10 % , and air france is also *interested in raising its holding from the current 1.5 % , according to austrian airlines . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2325">
+<answer instance="interest-n.int2325" senseid="interest_6"/>
+<context>
+ <s> integrated resources inc. , a drexel client , defaulted in july on nearly $ 1 billion in debt ; resorts international inc. failed to meet <head>interest</head> payments on $ 925 million in junk debt . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1492">
+<answer instance="interest-n.int1492" senseid="interest_5"/>
+<context>
+ <s> mccaw is essentially swapping franchises in the less populated states of alabama , kentucky and tennessee for a large <head>interest</head> in the biggest market of all-new york . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1342">
+<answer instance="interest-n.int1342" senseid="interest_6"/>
+<context>
+ <s> some u.s. and european bankers have argued that the proposed settlement does n't include sufficient enhancements -- government and international agency funds , assurances and guarantees -- to compensate them for losses they have to take if they opt to offer mexico cuts in its debt or <head>interest</head> payments . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1368">
+<answer instance="interest-n.int1368" senseid="interest_6"/>
+<context>
+ <s> `` here in europe , everybody was expecting the bundesbank to raise <head>interest</head> rates ; a full point was a surprise , but that something had to be done was clear to everybody , '' said aloys bischofberger , chief economist for credit suisse in zurich . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1556">
+<answer instance="interest-n.int1556" senseid="interest_5"/>
+<context>
+ <s> the largest stake sold was occidental 's 15.7 % working <head>interest</head> in the hartzog draw property in campbell county , wyo . </s> 
+</context>
+</instance>
+<instance id="interest-n.int188">
+<answer instance="interest-n.int188" senseid="interest_6"/>
+<context>
+ <s> mr. reynolds also notes that since british banks have no reserve requirements , high <head>interest</head> rates are less likely to curb inflation than to cause recession . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1590">
+<answer instance="interest-n.int1590" senseid="interest_5"/>
+<context>
+ <s> under the new arrangement , phillips will hold an 82 % working <head>interest</head> in the acreage , as well as act as operator , and northwest will hold the remaining 18 % interest . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2252">
+<answer instance="interest-n.int2252" senseid="interest_5"/>
+<context>
+ <s> his effective <head>interest</head> in richfield , after filtering through several other affiliate companies , comes to just 18 % . </s> 
+</context>
+</instance>
+<instance id="interest-n.int910">
+<answer instance="interest-n.int910" senseid="interest_6"/>
+<context>
+ <s> this year , federal reserve chairman alan greenspan seemed to warn he would n't lower <head>interest</head> rates merely to keep the dollar within an agreed-on exchange range . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2103">
+<answer instance="interest-n.int2103" senseid="interest_5"/>
+<context>
+ <s> marriott , which also has <head>interests</head> in restaurants and contract-food services , already has used the franchising technique successfully to expand its marriott hotels & resorts and residence inn chains . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1277">
+<answer instance="interest-n.int1277" senseid="interest_6"/>
+<context>
+ <s> the economy 's unexpected sluggishness and the dollar 's continued strength are likely to force the federal reserve to cut <head>interest</head> rates in coming weeks , analysts say . </s> 
+</context>
+</instance>
+<instance id="interest-n.int10">
+<answer instance="interest-n.int10" senseid="interest_5"/>
+<context>
+ <s> that stake , together with its convertible preferred stock holdings , gives faulding the right to increase its <head>interest</head> to 70 % of moleculon 's voting stock . </s> 
+</context>
+</instance>
+<instance id="interest-n.int816">
+<answer instance="interest-n.int816" senseid="interest_6"/>
+<context>
+ <s> expenses unrelated to <head>interest</head> rose 5.4 % , to $ 541 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int422">
+<answer instance="interest-n.int422" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> in 1,327 non-nms securities totaled 40.3 million shares , compared with almost 38 million shares in 1,310 issues in september . </s> 
+</context>
+</instance>
+<instance id="interest-n.int315">
+<answer instance="interest-n.int315" senseid="interest_5"/>
+<context>
+ <s> credit lyonnais reported 1988 consolidated profit of 2.06 billion francs after payments to minority <head>interests</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int310">
+<answer instance="interest-n.int310" senseid="interest_6"/>
+<context>
+ <s> republicans would defer the tax break : save $ 2,000 , and you 'll escape taxes on all the <head>interest</head> that sum earns over the years till you retire . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1491">
+<answer instance="interest-n.int1491" senseid="interest_5"/>
+<context>
+ <s> frustrated in its bid to buy lin broadcasting corp. 's big-city cellular phone franchises , mccaw cellular communications inc. agreed to buy metromedia co. 's new york franchise <head>interests</head> for $ 1.9 billion . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1977">
+<answer instance="interest-n.int1977" senseid="interest_5"/>
+<context>
+ <s> messrs. hickey and hornbeck have agreed to enter non-competition agreements and a five-year agreement not to acquire an <head>interest</head> in cooker or to participate in any proxy contest regarding cooker . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1739">
+<answer instance="interest-n.int1739" senseid="interest_6"/>
+<context>
+ <s> the <head>interest</head> they pay is exempt from state and local income taxes . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2299">
+<answer instance="interest-n.int2299" senseid="interest_5"/>
+<context>
+ <s> for example , lincoln sold an equity <head>interest</head> in the project to american continental , a purchase the parent financed with proceeds of `` illusory transactions with lincoln subsidiaries , '' according to the suit . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1561">
+<answer instance="interest-n.int1561" senseid="interest_5"/>
+<context>
+ <s> profit after tax , minority <head>interests</head> and extraordinary items , known as net profit attributable to shareholders , rose 25 % to # 13.7 million from # 10.9 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int285">
+<answer instance="interest-n.int285" senseid="interest_5"/>
+<context>
+ <s> the year-earlier quarter included a one-time after-tax gain of $ 223.4 million from the sale of <head>interests</head> in its computerized reservations partnership , covia . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1729">
+<answer instance="interest-n.int1729" senseid="interest_6"/>
+<context>
+ <s> vickers plc , a british defense and engineering concern , said its pretax profit for the first half of the year increased 31 % , largely from <head>interest</head> income associated with the sale of its howson-algraphy lithographic plate business to du pont co . </s> 
+</context>
+</instance>
+<instance id="interest-n.int943">
+<answer instance="interest-n.int943" senseid="interest_5"/>
+<context>
+ <s> gm said it still is talking with jaguar about acquiring a minority <head>interest</head> . </s> 
+</context>
+</instance>
+<instance id="interest-n.int412">
+<answer instance="interest-n.int412" senseid="interest_5"/>
+<context>
+ <s> among 2,412 of the largest otc issues , short <head>interest</head> rose to 196.8 million shares , from 185.7 million in 2,379 stocks in september . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1072">
+<answer instance="interest-n.int1072" senseid="interest_6"/>
+<context>
+ <s> preferred stock normally pays dividends to holders comparable to <head>interest</head> rates on some money-market investments . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1891">
+<answer instance="interest-n.int1891" senseid="interest_6"/>
+<context>
+ <s> in the end , a lot comes down to where you think <head>interest</head> rates are headed , which is a hard call for professionals these days , let alone individual homeowners . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2340">
+<answer instance="interest-n.int2340" senseid="interest_5"/>
+<context>
+ <s> the facilities include a 70 % <head>interest</head> in the milford haven refinery , 250 service stations and *interests in an oil pipeline and five product terminals . </s> 
+</context>
+</instance>
+<instance id="interest-n.int2031">
+<answer instance="interest-n.int2031" senseid="interest_6"/>
+<context>
+ <s> but initially the government put the second-quarter rate at 1.7 % , triggering anxiety that the country was heading for a recession and probably influencing a federal reserve move to let <head>interest</head> rates fall in late july . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1497">
+<answer instance="interest-n.int1497" senseid="interest_5"/>
+<context>
+ <s> new york-based lin currently owns a 50 % voting *interest and a 45 % equity <head>interest</head> in the franchise . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1073">
+<answer instance="interest-n.int1073" senseid="interest_5"/>
+<context>
+ <s> the open <head>interest</head> , or the number of contracts that remain to be either nullified by an opposite trade or fulfilled by delivery of the commodity , in the december contract yesterday rose by 513 contracts to 18,950 contracts . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1717">
+<answer instance="interest-n.int1717" senseid="interest_6"/>
+<context>
+ <s> brady and his lieutenant david mulford believe the federal reserve should lower <head>interest</head> rates , which would make u.s. investments less attractive and bring down the dollar . </s> 
+</context>
+</instance>
+<instance id="interest-n.int414">
+<answer instance="interest-n.int414" senseid="interest_5"/>
+<context>
+ <s> short <head>interest</head> in first executive , an insurance issue , rose 55 % to 3.8 million . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1363">
+<answer instance="interest-n.int1363" senseid="interest_5"/>
+<context>
+ <s> open <head>interest</head> figures released by the coffee , sugar & cocoa exchange showed an increase of 3,420 contracts , raising the total open *interest for sugar to 156,806 contracts . </s> 
+</context>
+</instance>
+<instance id="interest-n.int695">
+<answer instance="interest-n.int695" senseid="interest_6"/>
+<context>
+ <s> but despite the flurry of *interest in those shares , dealers said , the market remains nervous about wall street 's volatility and high u.k. <head>interest</head> rates . </s> 
+</context>
+</instance>
+<instance id="interest-n.int1351">
+<answer instance="interest-n.int1351" senseid="interest_6"/>
+<context>
+ <s> an official at first boston , which structured harcourt 's recapitalization , says that `` after applying the proceeds of the park sale , hbj should have no problem meeting its <head>interest</head> and principal payments . </s> 
+</context>
+</instance>
+</lexelt>
+</corpus>
