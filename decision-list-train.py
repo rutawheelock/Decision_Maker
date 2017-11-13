@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-CS 5716 PA 4 "Decision Maker"
+CS 5761 PA 4 "Decision Maker"
 Program 1: Builds decision list from training data
 Author: Ruta Wheelock
 Date: 11/15/2017
@@ -78,11 +78,12 @@ def main():
 #        print "P1: {}, P2: {}".format(p_sense_1, p_sense_2)
 
         # smoothing
+        # According to Yarowski, p: 0.1 - 0.25 is appropriate
         if p_sense_1 == 0:
-            p_sense_1 = 0.0001
+            p_sense_1 = 0.1
 
         if p_sense_2 == 0:
-            p_sense_2 = 0.0001
+            p_sense_2 = 0.1
 
         classification = sense_1
         if sense_2_count > sense_1_count:
