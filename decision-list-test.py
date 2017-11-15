@@ -7,7 +7,7 @@ Author: Ruta Wheelock
 Date: 11/15/2017
 
 Description:
-This program examins the content of test data and assigns a word sense
+This program examines the content of test data and assigns a word sense
 to the target word based on decision list.
 
 To run the program, execute:
@@ -22,7 +22,7 @@ $ ./decision-list-test.py decision-list.txt test-data.txt > answers.txt
 Algorithm:
 Adjacent words to the target word are extracted from the test file.
 Then each word is looked at the decision list starting from the top.
-When one of the words if found in the decision list, approprite sense is 
+When one of the words if found in the decision list, appropriate sense is 
 assigned to the targed word.
 
 Example:

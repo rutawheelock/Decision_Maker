@@ -8,11 +8,11 @@ Date: 11/15/2017
 
 Description:
 This program builds decision list using training data for word sense disambiguation.
-Program expects training data in a specfic format that was provided for this assignment.
+Program expects training data in a specific format that was provided for this assignment.
 
 To run the program, execute:
 $ ./decision-list-train.py trainig-data.txt
-The second command line argument is a name of training data, which is located in the same
+The second command line argument is a name of training data, which is in the same
 directory where this program.
 
 Program writes decision list to the standard output.
@@ -22,7 +22,7 @@ $ ./decision-list-train.py trainig-data.txt > decision-list.txt
 Algorithm:
 Decision list is based on adjacent word likelihood to predict a word sense to the target word.
 The program collects adjacent words to the target word and calculates
-their log-likelihood as decribed in David Yarowsky paper "Decision Lists for Lexical Ambiguity
+their log-likelihood as described in David Yarowsky paper "Decision Lists for Lexical Ambiguity
 Resolution". If multiple words have the same log-likelihood, adjacent word count is used for ranking.
 
 Example:
