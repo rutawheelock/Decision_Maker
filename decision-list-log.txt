@@ -1,0 +1,151 @@
+Script started on Tue 14 Nov 2017 09:33:47 PM CST
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% ./decision-list-train.py line-train.txt > line-decision-list.txt 
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% head -30 line-decision-list.txt
+4.02535169074 of product 57
+2.48490664979 was phone 13
+2.30258509299 telephone phone 34
+2.30258509299 access phone 15
+2.30258509299 gab phone 5
+2.30258509299 direct phone 4
+2.30258509299 increased phone 3
+2.30258509299 went phone 3
+2.30258509299 trading phone 3
+2.30258509299 private phone 3
+2.30258509299 open phone 3
+2.30258509299 subscriber phone 3
+2.30258509299 grew phone 3
+2.30258509299 growth phone 3
+2.30258509299 party phone 3
+2.30258509299 they phone 2
+2.30258509299 tip phone 2
+2.30258509299 570,000 phone 2
+2.30258509299 outside phone 2
+2.30258509299 recently phone 2
+2.30258509299 whose phone 2
+2.30258509299 customer phone 2
+2.30258509299 information phone 2
+2.30258509299 charges phone 2
+2.30258509299 car product 9
+2.30258509299 computer product 6
+2.30258509299 PS/2 product 6
+2.30258509299 product product 4
+2.30258509299 through product 3
+2.30258509299 its product 3
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% ./decision-list-test.py line-decision-list.txt line-test.txt > line-ans wers.txt
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% head -30 line-answers.txt
+<answer instance="line-n.w8_059:8174:" senseid="phone"/>
+<answer instance="line-n.w7_098:12684:" senseid="phone"/>
+<answer instance="line-n.w8_106:13309:" senseid="phone"/>
+<answer instance="line-n.w9_40:10187:" senseid="phone"/>
+<answer instance="line-n.w9_16:217:" senseid="phone"/>
+<answer instance="line-n.w8_119:16927:" senseid="product"/>
+<answer instance="line-n.w8_008:13756:" senseid="phone"/>
+<answer instance="line-n.w8_041:15186:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 05601797:" senseid="phone"/>
+<answer instance="line-n.w8_119:2964:" senseid="phone"/>
+<answer instance="line-n.w7_040:13652:" senseid="phone"/>
+<answer instance="line-n.w7_122:2194:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 45903907:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 43602625:" senseid="phone"/>
+<answer instance="line-n.w8_034:3995:" senseid="product"/>
+<answer instance="line-n.w8_139:696:" senseid="product"/>
+<answer instance="line-n.art7} aphb 20801955:" senseid="phone"/>
+<answer instance="line-n.w8_028:3156:" senseid="product"/>
+<answer instance="line-n.art7} aphb 19600919:" senseid="phone"/>
+<answer instance="line-n.w8_111:8071:" senseid="phone"/>
+<answer instance="line-n.w7_041:4840:" senseid="phone"/>
+<answer instance="line-n.w7_074:3928:" senseid="phone"/>
+<answer instance="line-n.w8_049:15000:" senseid="phone"/>
+<answer instance="line-n.w8_086:3306:" senseid="phone"/>
+<answer instance="line-n.w9_8:1533:" senseid="phone"/>
+<answer instance="line-n.w8_042:5289:" senseid="phone"/>
+<answer instance="line-n.w7_041:11151:" senseid="phone"/>
+<answer instance="line-n.w7_059:9261:" senseid="phone"/>
+<answer instance="line-n.w9_6:10969:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 41702230:" senseid="phone"/>
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% ./decision-list-eval.py line-key.txt line-answers.txt
+Total count: 126
+Correct count: 104
+Accuracy: 82.54% 
+
+Confusion Matrix: (raw counts)
+-------| phone | product
+phone              6 
+product     16
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% ./decision-list-train.py interest-n-train.txt > interest-n-decision-lis t.txt
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% head -30 interest-n-decision-list.txt
+2.30258509299 short interest_5 36
+2.30258509299 minority interest_5 22
+2.30258509299 has interest_5 17
+2.30258509299 equity interest_5 13
+2.30258509299 open interest_5 8
+2.30258509299 is interest_5 5
+2.30258509299 controlling interest_5 4
+2.30258509299 majority interest_5 4
+2.30258509299 voting interest_5 4
+2.30258509299 include interest_5 3
+2.30258509299 family interest_5 3
+2.30258509299 whose interest_5 2
+2.30258509299 ratio interest_5 2
+2.30258509299 cellular interest_5 2
+2.30258509299 bank interest_5 2
+2.30258509299 beneficial interest_5 2
+2.30258509299 financial interest_5 2
+2.30258509299 are interest_5 2
+2.30258509299 indirect interest_5 2
+2.30258509299 business interest_5 2
+2.30258509299 working interest_5 2
+2.30258509299 one-third interest_5 2
+2.30258509299 volume interest_5 2
+2.30258509299 telephone interest_5 2
+2.30258509299 other interest_5 2
+2.30258509299 figures interest_5 2
+2.30258509299 effective interest_5 2
+2.30258509299 position interest_5 2
+2.30258509299 rates interest_6 111
+2.30258509299 rate interest_6 33
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% ./decision-list-test.py interest-n-decision-list.txt interest-n-test.tx t > interest-n-answers.txt
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% head -30 interest-n-answers.txt
+<answer instance="interest-n.int1585" senseid="interest_5"/>
+<answer instance="interest-n.int1724" senseid="interest_5"/>
+<answer instance="interest-n.int1555" senseid="interest_5"/>
+<answer instance="interest-n.int2260" senseid="interest_5"/>
+<answer instance="interest-n.int1847" senseid="interest_5"/>
+<answer instance="interest-n.int884" senseid="interest_6"/>
+<answer instance="interest-n.int585" senseid="interest_5"/>
+<answer instance="interest-n.int275" senseid="interest_5"/>
+<answer instance="interest-n.int1829" senseid="interest_5"/>
+<answer instance="interest-n.int1214" senseid="interest_6"/>
+<answer instance="interest-n.int2049" senseid="interest_5"/>
+<answer instance="interest-n.int1188" senseid="interest_5"/>
+<answer instance="interest-n.int2112" senseid="interest_6"/>
+<answer instance="interest-n.int1788" senseid="interest_6"/>
+<answer instance="interest-n.int303" senseid="interest_5"/>
+<answer instance="interest-n.int2180" senseid="interest_5"/>
+<answer instance="interest-n.int1336" senseid="interest_6"/>
+<answer instance="interest-n.int2010" senseid="interest_6"/>
+<answer instance="interest-n.int1713" senseid="interest_6"/>
+<answer instance="interest-n.int2189" senseid="interest_6"/>
+<answer instance="interest-n.int661" senseid="interest_5"/>
+<answer instance="interest-n.int1746" senseid="interest_5"/>
+<answer instance="interest-n.int1934" senseid="interest_5"/>
+<answer instance="interest-n.int911" senseid="interest_5"/>
+<answer instance="interest-n.int1383" senseid="interest_6"/>
+<answer instance="interest-n.int185" senseid="interest_6"/>
+<answer instance="interest-n.int531" senseid="interest_6"/>
+<answer instance="interest-n.int1720" senseid="interest_5"/>
+<answer instance="interest-n.int1438" senseid="interest_6"/>
+<answer instance="interest-n.int914" senseid="interest_6"/>
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% ./decision-list-eval.py interest-n-key.txt interest-n-answers.txt
+Total count: 121
+Correct count: 111
+Accuracy: 91.74% 
+
+Confusion Matrix: (raw counts)
+----------| interest_5 | interest_6
+interest_5                    7 
+interest_6     3
+[4mukko[24m:[1m~/CS_5761/assignments/PA4_DecisionMaker[0m% exit
+exit
+
+Script done on Tue 14 Nov 2017 09:36:14 PM CST
